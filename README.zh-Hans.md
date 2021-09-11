@@ -1,7 +1,7 @@
 # Awesome Wails
 
 <p align="center">
-   <img src="/img/logo.png" width="180" height="180"/><br/>
+   <img src="/logo.png" width="180" height="180"/><br/>
 </p>
 <p align="center">
 精心挑选的 Wails 应用程序列表
