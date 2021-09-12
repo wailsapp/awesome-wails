@@ -19,3 +19,9 @@
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 一个基于 Vue 和 Vue-Router 的 Wails 模板
 
 ## 项目
+
+- [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床
+- [DevToolKit](https://github.com/qaware/dev-tool-kit) - 一款集成众多开发工具的软件
+- [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器
+- [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件
+- [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片

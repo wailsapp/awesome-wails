@@ -17,3 +17,9 @@ List of go framework software libraries
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
 
 ## Project
+
+- [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
+- [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
+- [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
+- [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
+- [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
