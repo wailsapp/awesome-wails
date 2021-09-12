@@ -1,3 +1,0 @@
-# Contributors
-
-Contributor list:
