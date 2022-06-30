@@ -44,3 +44,4 @@
 - [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器
 - [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片
+- [xnote](https://github.com/gozeon/xnote) - 一款笔记和工具集成的软件
