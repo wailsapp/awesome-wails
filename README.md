@@ -43,3 +43,4 @@ To add your templates, tutorials, videos or software, please open a PR!
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
+- [xnote](https://github.com/gozeon/xnote) - tools and notes
