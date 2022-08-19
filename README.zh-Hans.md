@@ -27,7 +27,7 @@
 
 ## 国际化
 
-[English](README.md) | [简体中文](README.zh-Hans.md)
+[English](README.md) | [简体中文](README.zh-Hans.md) | [日本語](README.ja.md)
 
 ## 怎么做
 

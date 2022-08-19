@@ -26,7 +26,7 @@ A curated list of awesome Wails templates & software.
 
 ## Internationalization
 
-[English](README.md) | [简体中文](README.zh-Hans.md)
+[English](README.md) | [简体中文](README.zh-Hans.md) | [日本語](README.ja.md)
 
 ## HOWTO
 
