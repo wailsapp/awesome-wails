@@ -29,7 +29,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Internationalization](#internationalization)
 - [Table of Contents](#table-of-contents)
 - [Templates](#templates)
-- [Apps](#nav-4)
+- [Apps](#apps)
   - [Open Source](#open-source)
   - [Closed Source](#closed-source)
 
@@ -50,3 +50,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
 
 <!-- ### Closed Source -->
+
+### Closed Source
+
+- [小白兔AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
