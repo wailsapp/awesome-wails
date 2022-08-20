@@ -26,7 +26,6 @@
 <details>
   <summary>点我 打开/关闭 目录列表</summary>
 
-- [Awesome Wails](#awesome-wails)
   - [国际化](#国际化)
   - [内容目录](#内容目录)
   - [模板](#模板)
