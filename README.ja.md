@@ -9,31 +9,34 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 </p>
 
 <p align="center">
-  <a href="https://github.com/wailsapp/awesome-wails">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wailsapp/awesome-wails?style=flat-square"/>
+  <a href="https://github.com/wailsapp/awesome-wails/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/wailsapp/awesome-wails"/>
   </a>
-  <a href="https://github.com/wailsapp/wails">
+  <a href="https://github.com/misitebao/yakia">
+    <img alt="Yakia" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg"/>
+  </a>
+    <a href="https://github.com/wailsapp/wails">
     <img alt="For" src="https://img.shields.io/badge/For-Wails-brightgreen?style=flat-square&color=ff3c3c"/>
   </a>
 </p>
 
-## 国際化
+<div align="center">
+<strong>
+<samp>
 
-[English](README.md) | [简体中文](README.zh-Hans.md) | [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+
+</samp>
+</strong>
+</div>
 
 ## 目次
 
-<details>
-  <summary>ディレクトリリストを開く/閉じるには、私をクリックしてください</summary>
-
-  - [国際化](#国際化)
-  - [目次](#目次)
-  - [テンプレート](#テンプレート)
-  - [アプリ](#アプリ)
-    - [オープンソース](#オープンソース)
-    - [クローズド ソース](#クローズド-ソース)
-
-</details>
+- [目次](#目次)
+- [テンプレート](#テンプレート)
+- [アプリ](#アプリ)
+  - [オープンソース](#オープンソース)
+  - [クローズド ソース](#クローズド-ソース)
 
 ## テンプレート
 
@@ -49,8 +52,6 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Optimus](https://github.com/Splode/optimus) - 画像の圧縮・最適化・変換を行うデスクトップアプリ
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - ポリゴン化した画像を生成するために Triangula を使用し、フロントエンドに Wails を使用した軽量なアプリ
 
-<!-- ### クローズド ソース -->
-
 ### クローズド ソース
 
-- [小白兔AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上AIツールキット
+- [小白兔 AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上AIツールキット
