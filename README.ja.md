@@ -52,4 +52,6 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Optimus](https://github.com/Splode/optimus) - 画像の圧縮・最適化・変換を行うデスクトップアプリ
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - ポリゴン化した画像を生成するために Triangula を使用し、フロントエンドに Wails を使用した軽量なアプリ
 
-<!-- ### クローズド ソース -->
+### クローズド ソース
+
+- [小白兔 AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上AIツールキット

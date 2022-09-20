@@ -24,7 +24,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
 
 </samp>
 </strong>
@@ -34,7 +34,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 - [Table of Contents](#table-of-contents)
 - [Templates](#templates)
-- [Apps](#nav-4)
+- [Apps](#apps)
   - [Open Source](#open-source)
   - [Closed Source](#closed-source)
 
@@ -52,4 +52,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
 
-<!-- ### Closed Source -->
+### Closed Source
+
+- [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app

@@ -24,7 +24,7 @@
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
 
 </samp>
 </strong>
@@ -52,4 +52,6 @@
 - [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片
 
-<!-- ### 闭源 -->
+### 闭源
+
+- [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力AI工具箱
