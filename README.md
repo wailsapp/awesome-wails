@@ -9,31 +9,34 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 </p>
 
 <p align="center">
-  <a href="https://github.com/wailsapp/awesome-wails">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wailsapp/awesome-wails?style=flat-square"/>
+  <a href="https://github.com/wailsapp/awesome-wails/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/wailsapp/awesome-wails"/>
   </a>
-  <a href="https://github.com/wailsapp/wails">
+  <a href="https://github.com/misitebao/yakia">
+    <img alt="Yakia" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat.svg"/>
+  </a>
+    <a href="https://github.com/wailsapp/wails">
     <img alt="For" src="https://img.shields.io/badge/For-Wails-brightgreen?style=flat-square&color=ff3c3c"/>
   </a>
 </p>
 
-## Internationalization
+<div align="center">
+<strong>
+<samp>
 
-[English](README.md) | [简体中文](README.zh-Hans.md) | [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md)
+
+</samp>
+</strong>
+</div>
 
 ## Table of Contents
 
-<details>
-  <summary>Click me to Open/Close the directory listing</summary>
-
-- [Internationalization](#internationalization)
 - [Table of Contents](#table-of-contents)
 - [Templates](#templates)
 - [Apps](#apps)
   - [Open Source](#open-source)
   - [Closed Source](#closed-source)
-
-</details>
 
 ## Templates
 
