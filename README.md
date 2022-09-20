@@ -52,8 +52,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
 
-<!-- ### Closed Source -->
-
 ### Closed Source
 
-- [小白兔AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
+- [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
