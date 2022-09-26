@@ -51,6 +51,10 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
+- [Modal File Manager](https://github.com/raguay/ModalFileManager) - A vim styled file manager that is extensable and themeable.
+- [EmailIt](https://github.com/raguay/EmailIt) - A simple markdown email sender only with notepads, templates, and text manipulating scripts.
+- [ScriptBar](https://github.com/raguay/ScriptBarApp) - xBar done in a single window with outputs from a Node-Red server
+- [Bulletin Board](https://github.com/raguay/BulletinBoard) - A simple messaging dialog with user created templates.
 
 ### Closed Source
 
