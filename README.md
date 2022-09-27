@@ -59,3 +59,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
+
+### Starter Code
+
+- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - Wails v2 with Systray and Gin for backend & API + Vue3 with monorepo structure for frontend.
