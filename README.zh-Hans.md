@@ -47,6 +47,8 @@
 
 ## 启动器
 
+- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - 项目启动器包含 Wails v2 + Systray + Gin + Vue3，其中前端部分用了 monorepo 的结构
+
 ## 应用
 
 ### 开源
