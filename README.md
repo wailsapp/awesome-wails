@@ -34,13 +34,20 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 - [Table of Contents](#table-of-contents)
 - [Templates](#templates)
+- [Starter](#starter)
 - [Apps](#apps)
   - [Open Source](#open-source)
   - [Closed Source](#closed-source)
+- [Tutorials](#tutorials)
+- [Articles](#articles)
 
 ## Templates
 
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
+
+## Starter
+
+- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - Wails v2 with Systray and Gin for backend & API + Vue3 with monorepo structure for frontend.
 
 ## Apps
 
@@ -60,6 +67,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 
-### Starter Code
+## Tutorials
 
-- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - Wails v2 with Systray and Gin for backend & API + Vue3 with monorepo structure for frontend.
+## Articles
