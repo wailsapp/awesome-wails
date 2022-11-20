@@ -62,6 +62,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [EmailIt](https://github.com/raguay/EmailIt) - A simple markdown email sender only with notepads, templates, and text manipulating scripts.
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - xBar done in a single window with outputs from a Node-Red server
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - A simple messaging dialog with user created templates.
+- [Owlly](https://github.com/asunlabs/owlly) - Let your Slack team know .env changes instantly with one single binary.
 
 ### Closed Source
 
