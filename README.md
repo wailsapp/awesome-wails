@@ -63,6 +63,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - xBar done in a single window with outputs from a Node-Red server
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - A simple messaging dialog with user created templates.
 - [Owlly](https://github.com/asunlabs/owlly) - Let your Slack team know .env changes instantly with one single binary.
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - An easy to use desktop app to build and test your SurrealDB queries
 
 ### Closed Source
 
