@@ -62,6 +62,7 @@
 - [EmailIt](https://github.com/raguay/EmailIt) - 一个简单的 Markdown 电子邮件发送器，只有记事本、模板和文本操作脚本。
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - 在单个窗口中完成的 xBar，输出来自 Node-Red 服务器。
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - 附带用户创建模板的简单消息对话框。
+- [Spirit](https://github.com/o8x/spirit) - 从剪切板或本地获取图像并将其悬浮在桌面上
 
 ### 闭源
 
