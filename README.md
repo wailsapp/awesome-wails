@@ -65,6 +65,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Owlly](https://github.com/asunlabs/owlly) - Let your Slack team know .env changes instantly with one single binary.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - An easy to use desktop app to build and test your SurrealDB queries
 - [GitHelper](https://github.com/xusenlin/git-helper) - a simple and beautiful git assistant.
+- [CryptoBox](https://github.com/istommao/CryptoBox) - a simple and useful cryptography toolbox
 
 ### Closed Source
 
