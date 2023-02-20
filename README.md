@@ -66,6 +66,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - An easy to use desktop app to build and test your SurrealDB queries
 - [GitHelper](https://github.com/xusenlin/git-helper) - a simple and beautiful git assistant.
 - [CryptoBox](https://github.com/istommao/CryptoBox) - a simple and useful cryptography toolbox
+- [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - Semi-automatic trading assistant server for metatrader.
 
 ### Closed Source
 
