@@ -63,6 +63,7 @@
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - 在单个窗口中完成的 xBar，输出来自 Node-Red 服务器。
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - 附带用户创建模板的简单消息对话框。
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - 半自动 metatrader 交易助手
+- [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王V CFN 帐户
 
 ### 闭源
 
