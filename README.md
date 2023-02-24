@@ -68,6 +68,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [CryptoBox](https://github.com/istommao/CryptoBox) - a simple and useful cryptography toolbox
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - Semi-automatic trading assistant server for metatrader.
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - A tool for tracking any Street Fighter V CFN account's live match data
+- [Firebox](https://github.com/LvBay/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 
 ### Closed Source
 
