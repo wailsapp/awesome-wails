@@ -58,6 +58,8 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Justnotes](https://github.com/justmiles/justnotes) - typora に似たマークダウンエディター
 - [Optimus](https://github.com/Splode/optimus) - 画像の圧縮・最適化・変換を行うデスクトップアプリ
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - ポリゴン化した画像を生成するために Triangula を使用し、フロントエンドに Wails を使用した軽量なアプリ
+- [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - メタトレーダー向けの半自動取引アシスタント サーバー
+- [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - ストV CFN トラッカー
 
 ### クローズド ソース
 
