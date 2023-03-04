@@ -43,33 +43,37 @@
 
 ## 模板
 
-- [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 一个基于 Vue 和 Vue-Router 的 Wails 模板
+- [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 一个基于 Vue 和 Vue-Router 的 Wails 模板。
 
 ## 启动器
 
-- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - 项目启动器包含 Wails v2 + Systray + Gin + Vue3，其中前端部分用了 monorepo 的结构
+- [My App](https://github.com/jinyaoMa/my-app/tree/starter-code) - 项目启动器包含 Wails v2 + Systray + Gin + Vue3，其中前端部分用了 monorepo 的结构。
 
 ## 应用
 
 ### 开源
 
-- [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床
-- [DevToolKit](https://github.com/qaware/dev-tool-kit) - 一款集成众多开发工具的软件
-- [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器
-- [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件
-- [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片
+- [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床。
+- [DevToolKit](https://github.com/qaware/dev-tool-kit) - 一款集成众多开发工具的软件。
+- [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器。
+- [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件。
+- [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片。
 - [Modal File Manager](https://github.com/raguay/ModalFileManager) - 一个 vim 风格的文件管理器，支持扩展和主题。
 - [EmailIt](https://github.com/raguay/EmailIt) - 一个简单的 Markdown 电子邮件发送器，只有记事本、模板和文本操作脚本。
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - 在单个窗口中完成的 xBar，输出来自 Node-Red 服务器。
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - 附带用户创建模板的简单消息对话框。
-- [Spirit](https://github.com/o8x/spirit) - 从剪切板或本地获取图像并将其悬浮在桌面上
-- [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - 半自动 metatrader 交易助手
-- [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王V CFN 帐户
-- [Firebox](https://github.com/LvBay/firebox) - 一个基于riot LCU接口开发的桌面应用，适用于英雄联盟
+- [Spirit](https://github.com/o8x/spirit) - 从剪切板或本地获取图像并将其悬浮在桌面上。
+- [Owlly](https://github.com/asunlabs/owlly) - 让你的 Slack 团队知道 .env 只需要一个二进制文件就能立即改变。
+- [Surrealist](https://github.com/StarlaneStudios/Surrealist) - 一个易于使用来构建和测试您的 SurrealDB 查询的桌面应用程序。
+- [GitHelper](https://github.com/xusenlin/git-helper) - 一个简单而漂亮的 git 助手。
+- [CryptoBox](https://github.com/istommao/CryptoBox) - 一个简单实用的密码工具箱。
+- [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - 半自动 metatrader 交易助手。
+- [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王 V CFN 帐户。
+- [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
 
 ### 闭源
 
-- [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱
+- [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。
 
 ## 教程
 
