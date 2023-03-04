@@ -62,6 +62,7 @@
 - [EmailIt](https://github.com/raguay/EmailIt) - 一个简单的 Markdown 电子邮件发送器，只有记事本、模板和文本操作脚本。
 - [ScriptBar](https://github.com/raguay/ScriptBarApp) - 在单个窗口中完成的 xBar，输出来自 Node-Red 服务器。
 - [Bulletin Board](https://github.com/raguay/BulletinBoard) - 附带用户创建模板的简单消息对话框。
+- [Spirit](https://github.com/o8x/spirit) - 从剪切板或本地获取图像并将其悬浮在桌面上
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - 半自动 metatrader 交易助手
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王V CFN 帐户
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于riot LCU接口开发的桌面应用，适用于英雄联盟
