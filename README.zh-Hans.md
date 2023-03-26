@@ -70,6 +70,7 @@
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - 半自动 metatrader 交易助手。
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王 V CFN 帐户。
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
+- [Hatt](https://github.com/FrenchGithubUser/Hatt) - 用于在 Internet 上直接下载（DDL）和流式传输文件的元搜索引擎。
 
 ### 闭源
 
