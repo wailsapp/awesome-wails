@@ -71,6 +71,7 @@
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - 跟踪 街头霸王 V CFN 帐户。
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - 用于在 Internet 上直接下载（DDL）和流式传输文件的元搜索引擎。
+- [ChYing](https://github.com/yhy0/ChYing) - 承影 - 一款安全工具箱,集成了目录扫描、JWT、Swagger 测试、编/解码、轻量级 BurpSuite、杀软辅助等功能
 
 ### 闭源
 
