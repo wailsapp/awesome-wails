@@ -69,13 +69,14 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [CryptoBox](https://github.com/istommao/CryptoBox) - a simple and useful cryptography toolbox
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - Semi-automatic trading assistant server for metatrader.
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - A tool for tracking any Street Fighter V CFN account's live match data
-- [Firebox](https://github.com/LvBay/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - Meta search engine for direct download and streamable files on the internet
 - [ChYing](https://github.com/yhy0/ChYing) - ChYing is a comprehensive security toolbox designed to simplify various security testing tasks.
 
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
+- [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
+
 
 ## Tutorials
 
