@@ -71,6 +71,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - A tool for tracking any Street Fighter V CFN account's live match data
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - Meta search engine for direct download and streamable files on the internet
 - [ChYing](https://github.com/yhy0/ChYing) - ChYing is a comprehensive security toolbox designed to simplify various security testing tasks.
+- [QuickQuery](https://github.com/mmghv/QuickQuery) - A simple SQL database query tool, built using Wails (Go & Vue.js)
 
 ### Closed Source
 
