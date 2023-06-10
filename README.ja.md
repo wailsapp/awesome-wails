@@ -60,6 +60,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - ポリゴン化した画像を生成するために Triangula を使用し、フロントエンドに Wails を使用した軽量なアプリ
 - [MT-SATA-server](https://github.com/newproplus/MT-SATA-server) - メタトレーダー向けの半自動取引アシスタント サーバー
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - ストV CFN トラッカー
+- [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大規模言語モデルの管理、起動、およびインタラクティブツール、OpenAI互換のAPIを備えています
 
 ### クローズド ソース
 
