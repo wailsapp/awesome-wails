@@ -73,6 +73,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [ChYing](https://github.com/yhy0/ChYing) - ChYing is a comprehensive security toolbox designed to simplify various security testing tasks.
 - [QuickQuery](https://github.com/mmghv/QuickQuery) - A simple SQL database query tool, built using Wails (Go & Vue.js)
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV LLM management, startup and interaction tool, with OpenAI compatible API
+- [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Supaplex Levels editor, both web and desktop
 
 ### Closed Source
 
