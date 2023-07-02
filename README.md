@@ -74,6 +74,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [QuickQuery](https://github.com/mmghv/QuickQuery) - A simple SQL database query tool, built using Wails (Go & Vue.js)
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV LLM management, startup and interaction tool, with OpenAI compatible API
 - [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Supaplex Levels editor, both web and desktop
+- [Rolens](https://github.com/garraflavatra/rolens) - Intuitive cross-platform MongoDB GUI
 
 ### Closed Source
 
