@@ -76,6 +76,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Supaplex Levels editor, both web and desktop
 - [Rolens](https://github.com/garraflavatra/rolens) - Intuitive cross-platform MongoDB GUI
 - [Moo](https://github.com/imf4ll/moo) - Music player based on YouTube
+- [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 
 ### Closed Source
 
