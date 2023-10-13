@@ -77,6 +77,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Rolens](https://github.com/garraflavatra/rolens) - Intuitive cross-platform MongoDB GUI
 - [Moo](https://github.com/imf4ll/moo) - Music player based on YouTube
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
+- [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
 
 ### Closed Source
 
