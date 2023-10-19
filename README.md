@@ -78,7 +78,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Moo](https://github.com/imf4ll/moo) - Music player based on YouTube
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 - [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
-
+- [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
