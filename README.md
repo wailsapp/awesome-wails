@@ -78,11 +78,12 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 - [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
+
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
-
+- [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
 
 ## Tutorials
 
