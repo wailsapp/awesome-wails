@@ -78,6 +78,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 - [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
+- [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
 
 ### Closed Source
 
