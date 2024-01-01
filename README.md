@@ -80,6 +80,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
 - [Swallow](https://github.com/rangwea/swallow-wails) - A cool static blog client.
 - [Go-Architect](https://github.com/go-architect/go-architect) - An Architecture Analysis Tool for Golang Projects.
+- [RemoteController](https://github.com/PiterWeb/RemoteController) - The Steam Remote Play Alternative powered by P2P & gamepads
 
 ### Closed Source
 
