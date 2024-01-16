@@ -78,6 +78,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 - [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
+- [Quran-Terjeman_Org](https://github.com/nnttoo/quran-terjemah_org) Desktop Apps for reading and playing Quran recitations
 - [Swallow](https://github.com/rangwea/swallow-wails) - A cool static blog client.
 - [Go-Architect](https://github.com/go-architect/go-architect) - An Architecture Analysis Tool for Golang Projects.
 - [RemoteController](https://github.com/PiterWeb/RemoteController) - The Steam Remote Play Alternative powered by P2P & gamepads
