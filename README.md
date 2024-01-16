@@ -81,6 +81,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Swallow](https://github.com/rangwea/swallow-wails) - A cool static blog client.
 - [Go-Architect](https://github.com/go-architect/go-architect) - An Architecture Analysis Tool for Golang Projects.
 - [RemoteController](https://github.com/PiterWeb/RemoteController) - The Steam Remote Play Alternative powered by P2P & gamepads
+- [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
 
 ### Closed Source
 
