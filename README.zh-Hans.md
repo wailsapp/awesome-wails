@@ -73,6 +73,7 @@
 - [ChYing](https://github.com/yhy0/ChYing) - 承影 - 一款安全工具箱,集成了目录扫描、JWT、Swagger 测试、编/解码、轻量级 BurpSuite、杀软辅助等功能
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大语言模型管理，启动和交互工具，带有OpenAI兼容的API
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - PF_Tools 一个简单的炫酷时钟桌面应用。
+- [Swallow](https://github.com/rangwea/swallow-wails) - 一个静态博客客户端。
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - 一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux。
 
 ### 闭源
