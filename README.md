@@ -92,4 +92,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ## Tutorials
 
+- [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
+- [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
+
 ## Articles
