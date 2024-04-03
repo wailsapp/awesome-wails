@@ -1,8 +1,18 @@
 # Awesome Wails
 
-<p align="center">
-   <img src="./assets/images/logo.png" width="50%"/><br/>
-</p>
+<div align="center">
+<picture>
+  <source
+    srcset="./assets/images/logo-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/images/logo-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="50%" src="./assets/images/logo-light.png" />
+</picture>
+</div>
 
 <p align="center">
 Wails のエコシステムとコミュニティから厳選された最高のもののコレクション。
