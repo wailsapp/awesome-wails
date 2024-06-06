@@ -94,6 +94,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [RemoteController](https://github.com/PiterWeb/RemoteController) - The Steam Remote Play Alternative powered by P2P & gamepads
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
 - [Nuga](https://github.com/mishamyrt/nuga-app) - Application for controlling NuPhy® keyboards.
+- [Easygen](https://github.com/faith0831/easygen) - A simple and easy-to-use code generator that can effectively reduce repetitive work and improve development efficiency.
 
 ### Closed Source
 
