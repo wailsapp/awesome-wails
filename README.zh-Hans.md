@@ -85,6 +85,7 @@
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - PF_Tools 一个简单的炫酷时钟桌面应用。
 - [Swallow](https://github.com/rangwea/swallow-wails) - 一个静态博客客户端。
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - 一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux。
+- [Easygen ](https://github.com/faith0831/easygen) - 一款简单易用的代码生成器，可以有效减少重复劳动，提升开发效率。
 
 ### 闭源
 
