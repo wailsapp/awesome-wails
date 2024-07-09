@@ -95,6 +95,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
 - [Nuga](https://github.com/mishamyrt/nuga-app) - Application for controlling NuPhy® keyboards.
 - [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
+- [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
 
 ### Closed Source
 
