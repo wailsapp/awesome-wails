@@ -98,6 +98,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
 - [AeroMod](https://github.com/fly2z/aeromod) - An external mod manager for Microsoft Flight Simulator.
+- [Break reminder](https://github.com/kevinziroldi/awesome-wails) - An app that reminds you to take a break after a chosen period of time.
 
 ### Closed Source
 
