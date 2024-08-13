@@ -86,6 +86,7 @@
 - [Swallow](https://github.com/rangwea/swallow-wails) - 一个静态博客客户端。
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - 一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux。
 - [Easygen](https://github.com/faith0831/easygen) - 一款简单易用的代码生成器，可以有效减少重复劳动，提升开发效率。
+- [Ai Gui](https://github.com/pwh-pwh/ai-gui) - 一个使用wails开发的简易ai问答软件用于日常问答，可缩小图标，方便随时使用。
 
 ### 闭源
 
