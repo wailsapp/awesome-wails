@@ -99,7 +99,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
 - [AeroMod](https://github.com/fly2z/aeromod) - An external mod manager for Microsoft Flight Simulator.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
-- [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wailes for daily Q&A. The icons can be reduced for easy use at any time.
+- [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
 
 ### Closed Source
 
