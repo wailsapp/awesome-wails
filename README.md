@@ -101,6 +101,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
 - [Serpico](https://github.com/leoantony72/serpico) - File Organizer: organize files by year,month and file type.
+- [Iconium](https://github.com/beyenilmez/iconium) - A tool for creating, applying, customizing and sharing icon packs for files and folders.
 
 ### Closed Source
 
