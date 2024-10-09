@@ -102,6 +102,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
 - [Serpico](https://github.com/leoantony72/serpico) - File Organizer: organize files by year,month and file type.
 - [Iconium](https://github.com/beyenilmez/iconium) - A tool for creating, applying, customizing and sharing icon packs for files and folders.
+- [Resizem](https://github.com/barats/resizem) - An app designed for bulk image process. It is particularly useful for users who need to resize, convert, and manage large numbers of image files at once.
 
 ### Closed Source
 
