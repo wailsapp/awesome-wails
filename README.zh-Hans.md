@@ -88,6 +88,7 @@
 - [Easygen](https://github.com/faith0831/easygen) - 一款简单易用的代码生成器，可以有效减少重复劳动，提升开发效率。
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - 一个使用wails开发的简易ai问答软件用于日常问答，可缩小图标，方便随时使用。
 - [Resizem](https://github.com/barats/resizem) - 一款专为批量处理图片而设计的应用软件。对于需要同时调整、转换和管理大量图片文件的用户来说，这款应用尤其有用。
+- [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一款Windows PC端微信聊天记录数据导出浏览工具，界面与微信保持一致，使用简单方便。
 
 ### 闭源
 

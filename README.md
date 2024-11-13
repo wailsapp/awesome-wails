@@ -104,6 +104,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Iconium](https://github.com/beyenilmez/iconium) - A tool for creating, applying, customizing and sharing icon packs for files and folders.
 - [Resizem](https://github.com/barats/resizem) - An app designed for bulk image process. It is particularly useful for users who need to resize, convert, and manage large numbers of image files at once.
 - [Callie](https://github.com/MikeyA-yo/callie) - A desktop application for making group and conference calls
+- [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
 
 ### Closed Source
 
