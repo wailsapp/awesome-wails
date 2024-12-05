@@ -62,7 +62,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
-- [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
@@ -106,7 +105,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Callie](https://github.com/MikeyA-yo/callie) - A desktop application for making group and conference calls
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
 - [WailsTerm](https://github.com/rlshukhov/wailsterm) - A simple translucent terminal app build with Wails and Xterm.js
-
+- [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
