@@ -106,6 +106,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
 - [WailsTerm](https://github.com/rlshukhov/wailsterm) - A simple translucent terminal app build with Wails and Xterm.js
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
+- [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
