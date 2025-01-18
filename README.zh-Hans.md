@@ -1,8 +1,18 @@
 <h1 align='center'>Awesome Wails</h1>
 
-<p align="center">
-   <img src="./assets/images/logo.png" width="50%"/><br/>
-</p>
+<div align="center">
+<picture>
+  <source
+    srcset="./assets/images/logo-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/images/logo-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="50%" src="./assets/images/logo-light.png" />
+</picture>
+</div>
 
 <p align="center">
 精选的来自 Wails 生态系统和社区的最佳内容。
@@ -73,7 +83,14 @@
 - [ChYing](https://github.com/yhy0/ChYing) - 承影 - 一款安全工具箱,集成了目录扫描、JWT、Swagger 测试、编/解码、轻量级 BurpSuite、杀软辅助等功能
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大语言模型管理，启动和交互工具，带有OpenAI兼容的API
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - PF_Tools 一个简单的炫酷时钟桌面应用。
-
+- [Swallow](https://github.com/rangwea/swallow-wails) - 一个静态博客客户端。
+- [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - 一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux。
+- [Easygen](https://github.com/faith0831/easygen) - 一款简单易用的代码生成器，可以有效减少重复劳动，提升开发效率。
+- [Ai Gui](https://github.com/pwh-pwh/ai-gui) - 一个使用wails开发的简易ai问答软件用于日常问答，可缩小图标，方便随时使用。
+- [Resizem](https://github.com/barats/resizem) - 一款专为批量处理图片而设计的应用软件。对于需要同时调整、转换和管理大量图片文件的用户来说，这款应用尤其有用。
+- [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一款Windows PC端微信聊天记录数据导出浏览工具，界面与微信保持一致，使用简单方便。
+- [Kafka-King](https://github.com/Bronya0/Kafka-King) - 一个现代、实用的kafka本地客户端.
+- [go-stock](https://github.com/ArvinLovegood/go-stock) - 自选股票行情获取，成本盈亏展示,涨跌报警推送。数据全部保留在本地
 ### 闭源
 
 - [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。

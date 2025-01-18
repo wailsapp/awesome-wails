@@ -1,8 +1,18 @@
 <h1 align='center'>Awesome Wails</h1>
 
-<p align="center">
-   <img src="./assets/images/logo.png" width="50%"/><br/>
-</p>
+<div align="center">
+<picture>
+  <source
+    srcset="./assets/images/logo-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/images/logo-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="50%" src="./assets/images/logo-light.png" />
+</picture>
+</div>
 
 <p align="center">
 A curated collection of the best stuff from the Wails ecosystem and community.
@@ -52,7 +62,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
-
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
@@ -78,6 +87,28 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PasswordME](https://github.com/avelex/passwordme) - Tiny cross-platform password manager with generation
 - [Status Updater](https://github.com/turnkey-commerce/status-updater) - Accessible UI for users with limited vision to routinely update their status or request contact from remote caregivers.
 - [PF_Tools](https://github.com/pfinal-nc/wails_pf) - A simple cool clock desktop application
+- [Quran-Terjeman_Org](https://github.com/nnttoo/quran-terjemah_org) Desktop Apps for reading and playing Quran recitations
+- [Swallow](https://github.com/rangwea/swallow-wails) - A cool static blog client.
+- [Go-Architect](https://github.com/go-architect/go-architect) - An Architecture Analysis Tool for Golang Projects.
+- [RemoteController](https://github.com/PiterWeb/RemoteController) - The Steam Remote Play Alternative powered by P2P & gamepads
+- [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
+- [Nuga](https://github.com/mishamyrt/nuga-app) - Application for controlling NuPhy® keyboards.
+- [Easygen](https://github.com/faith0831/easygen) - A simple and easy-to-use code generator that can effectively reduce repetitive work and improve development efficiency.
+- [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
+- [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
+- [AeroMod](https://github.com/fly2z/aeromod) - An external mod manager for Microsoft Flight Simulator.
+- [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
+- [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
+- [Serpico](https://github.com/leoantony72/serpico) - File Organizer: organize files by year,month and file type.
+- [Iconium](https://github.com/beyenilmez/iconium) - A tool for creating, applying, customizing and sharing icon packs for files and folders.
+- [Resizem](https://github.com/barats/resizem) - An app designed for bulk image process. It is particularly useful for users who need to resize, convert, and manage large numbers of image files at once.
+- [Callie](https://github.com/MikeyA-yo/callie) - A desktop application for making group and conference calls
+- [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
+- [WailsTerm](https://github.com/rlshukhov/wailsterm) - A simple translucent terminal app build with Wails and Xterm.js
+- [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
+- [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
+- [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
+- [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
 
 ### Closed Source
 
@@ -86,5 +117,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
 
 ## Tutorials
+
+- [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
+- [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
 
 ## Articles
