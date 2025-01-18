@@ -109,6 +109,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
 - [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
+- [serial reader window](https://github.com/nnttoo/serial_reader/)
 
 ### Closed Source
 
