@@ -111,6 +111,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
 - [Sync Folder](https://github.com/zaaack/sync-folder) - A simple folder sync tray application, background memory usage is very low.
 - [serial reader window](https://github.com/nnttoo/serial_reader/) open-source application read data from serial ports (COM) on Windows
+- [PZ Admin](https://github.com/beyenilmez/pz-admin) - A desktop application for managing Project Zomboid servers with RCON.
 
 ### Closed Source
 
