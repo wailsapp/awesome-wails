@@ -91,6 +91,8 @@
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一款Windows PC端微信聊天记录数据导出浏览工具，界面与微信保持一致，使用简单方便。
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - 一个现代、实用的kafka本地客户端.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - 自选股票行情获取，成本盈亏展示,涨跌报警推送。数据全部保留在本地
+-[Sync Folder](https://github.com/zaaack/sync-folder) - 一个简单的文件夹同步托盘应用，后台内存占用极少。
+
 ### 闭源
 
 - [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。
