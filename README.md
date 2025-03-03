@@ -109,7 +109,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
 - [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
--[Sync Folder](https://github.com/zaaack/sync-folder) - A simple folder sync tray application, background memory usage is very low.
+- [Sync Folder](https://github.com/zaaack/sync-folder) - A simple folder sync tray application, background memory usage is very low.
+- [serial reader window](https://github.com/nnttoo/serial_reader/) open-source application read data from serial ports (COM) on Windows
 
 ### Closed Source
 
@@ -121,5 +122,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 - [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
 - [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
+- [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An easy-to-use m3u8 downloader
 
 ## Articles
