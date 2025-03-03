@@ -95,6 +95,7 @@
 
 - [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
+- [飞鸟视频下载器](https://github.com/youwen21/flybird-m3u8downloader) - 一个M3u8视频下载器，支持导出MP4。
 
 ## 教程
 
