@@ -91,7 +91,8 @@
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一款Windows PC端微信聊天记录数据导出浏览工具，界面与微信保持一致，使用简单方便。
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - 一个现代、实用的kafka本地客户端.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - 自选股票行情获取，成本盈亏展示,涨跌报警推送。数据全部保留在本地
--[Sync Folder](https://github.com/zaaack/sync-folder) - 一个简单的文件夹同步托盘应用，后台内存占用极少。
+- [Sync Folder](https://github.com/zaaack/sync-folder) - 一个简单的文件夹同步托盘应用，后台内存占用极少。
+- [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - 一个简单的S3对象存储客户端，理论上可以支持管理所有兼容S3协议的存储桶
 
 ### 闭源
 
