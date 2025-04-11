@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ### Open Source
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
+- [Restmate](https://github.com/aunjaffery/restmate) - Restmate is a modern lightweight cross-platform Rest API Client, designed to simplify and expedite the testing process for developers.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - A lightweight app which uses Triangula to generate triangulated images and Wails for the frontend.
