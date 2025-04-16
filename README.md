@@ -121,6 +121,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
+- [Mchat](https://marcio199226.github.io/mchat-site/public/) -  Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
 
 ## Tutorials
 
