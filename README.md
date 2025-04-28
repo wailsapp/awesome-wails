@@ -116,6 +116,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - A simple S3 object storage client that can theoretically support the management of all buckets compatible with the S3 protocol
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - An efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - An app that helps you manage Productivity and Rest periods throughout the day.
+- [goer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server
 
 ### Closed Source
 
