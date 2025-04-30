@@ -54,7 +54,7 @@
 ## 模板
 
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 一个基于 Vue 和 Vue-Router 的 Wails 模板。
-- [wails-template-primevue-sakai](https://github.com/TekWizely/wails-template-primevue-sakai) - Wails starter using [PrimeVue's Sakai Application Template](https://sakai.primevue.org) (Vite, Vue, PrimeVue, TailwindCSS, Routing, Themes, Dark Mode, UI Components, more)
+- [wails-template-primevue-sakai](https://github.com/TekWizely/wails-template-primevue-sakai) - Wails 模板基于免费的 PrimeVue Sakai 应用程序模板（Vite、Vue、PrimeVue、TailwindCSS、Vue Router、主题、暗模式、UI 组件等）
 
 ## Starter
 
