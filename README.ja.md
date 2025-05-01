@@ -54,6 +54,9 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 ## テンプレート
 
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - Vue と Vue-Router をベースにした wails テンプレート
+- [wails-template-primevue-sakai](https://github.com/TekWizely/wails-template-primevue-sakai) - 無料のPrimeVue Sakaiアプリケーションテンプレート（Vite、Vue、PrimeVue、TailwindCSS、Vue Router、テーマ、ダークモード、UIコンポーネントなど）に基づいたWailsテンプレート
+
+## Starter
 
 ## スターター
 
