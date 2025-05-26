@@ -63,6 +63,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
+
+- [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
 - [Restmate](https://github.com/aunjaffery/restmate) - Restmate is a modern lightweight cross-platform Rest API Client, designed to simplify and expedite the testing process for developers.
