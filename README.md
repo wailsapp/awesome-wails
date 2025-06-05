@@ -34,7 +34,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
 
 </samp>
 </strong>
@@ -125,6 +125,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
+- [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 
 ## Tutorials
 
