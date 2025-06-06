@@ -34,7 +34,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
 
 </samp>
 </strong>
@@ -80,6 +80,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 ### クローズド ソース
 
 - [小白兔 AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上 AI ツールキット
+- [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 
 ## チュートリアル
 

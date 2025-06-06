@@ -34,7 +34,7 @@
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
 
 </samp>
 </strong>
@@ -104,6 +104,7 @@
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
 - [飞鸟视频下载器](https://github.com/youwen21/flybird-m3u8downloader) - 一个M3u8视频下载器，支持导出MP4。
 - [PP钢琴键盘](https://piano.peirato.com/) - 轻量桌面钢琴键盘，支持连接MIDI设备。
+- [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
 
 ## 教程
 
