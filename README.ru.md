@@ -126,6 +126,7 @@
 - [Firebox](https://gitee.com/fireclub/firebox) - Десктопное приложение, разработанное на основе интерфейса Riot LCU для League of Legends.
 - [Krater](https://moonguard.dev/krater) - Легковесное кроссплатформенное десктопное приложение, которое революционизирует отладку приложений Laravel.
 - [Tuna Desktop](https://tuna.am/blog/tuna-desktop-first/) - Приложение для создания HTTP/TCP туннелей для доступа из интернета к localhost.
+- [Maxx-gui](https://github.com/dusbot/maxx-gui) — мощный универсальный сетевой сканер, созданный на wails.
 
 ## Учебные материалы
 
