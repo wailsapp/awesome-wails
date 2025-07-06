@@ -100,7 +100,6 @@
 - [Easygen](https://github.com/faith0831/easygen) - Простой и удобный генератор кода, который эффективно сокращает повторяющуюся работу и повышает эффективность разработки.
 - [Nui](https://natsnui.app/) - Бесплатный и открытый GUI для управления NATS. Легко управляйте ядром NATS, потоками и хранилищами.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Видеоредактор, вдохновленный Vim.
-- [AeroMod](https://github.com/fly2z/aeromod) - Внешний менеджер модов для Microsoft Flight Simulator.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Автономный клиент, лаунчер и инструменты для проектов Blender.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - Простое программное обеспечение для ежедневных вопросов и ответов с использованием AI, значки можно уменьшить для удобного использования в любое время.
 - [Serpico](https://github.com/leoantony72/serpico) - Органайзер файлов: организуйте файлы по году, месяцу и типу.

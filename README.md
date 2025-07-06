@@ -100,7 +100,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Easygen](https://github.com/faith0831/easygen) - A simple and easy-to-use code generator that can effectively reduce repetitive work and improve development efficiency.
 - [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
-- [AeroMod](https://github.com/fly2z/aeromod) - An external mod manager for Microsoft Flight Simulator.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
 - [Serpico](https://github.com/leoantony72/serpico) - File Organizer: organize files by year,month and file type.
