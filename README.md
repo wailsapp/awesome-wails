@@ -109,6 +109,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
 - [WailsTerm](https://github.com/rlshukhov/wailsterm) - A simple translucent terminal app build with Wails and Xterm.js
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
+- [ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client.
 - [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
 - [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
