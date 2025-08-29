@@ -65,7 +65,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 ## アプリ
 
 ### オープンソース
-- [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
+- [MockWails](https://github.com/tacheraSasi/mockwails) - 開発者、テスター、API設計者のための、モックHTTPサーバーを効率的に作成・管理できる包括的なデスクトップアプリケーション。
 - [Transok](https://github.com/bent2685/transok-wails) - wails + reactで実現されたローカルエリアネットワークファイル転送ツール
 - [Cantor](https://github.com/evercyan/cantor) - wails + vue + github-api をベースにした個人用画像ベッドアプリ
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - ソフトウェア開発者のための多くの便利なツールを備えたデスクトップアプリケーション
