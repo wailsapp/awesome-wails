@@ -63,7 +63,7 @@
 ## Приложения
 
 ### С открытым исходным кодом
-
+- [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
 - [Transok](https://github.com/bent2685/transok-wails) - На основе Wails + React, инструмент для передачи файлов в локальной сети.
 - [Cantor](https://github.com/evercyan/cantor) - Личное приложение для хранения изображений на основе Wails + Vue + GitHub API.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - Десктопное приложение с множеством полезных инструментов для разработчиков ПО.
