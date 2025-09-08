@@ -122,6 +122,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) - A powerful all-in-one network scanning tool built with wails.
 - [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
+- [HurlStudio](https://github.com/the-sumeet/hurlstudio) - GUI for [Hurl](https://hurl.dev/).
 
 ### Closed Source
 
