@@ -63,10 +63,10 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
-
 - [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
+- [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - A cross-platform, customizable science fiction terminal emulator rebuilt with Go and Wails. Features real-time system monitoring, touchscreen support, and futuristic theming. Reduced from Electron's large footprint to just 41.9MB.
 - [Restmate](https://github.com/aunjaffery/restmate) - Restmate is a modern lightweight cross-platform Rest API Client, designed to simplify and expedite the testing process for developers.
 - [Justnotes](https://github.com/justmiles/justnotes) - A markdown editor similar to typora
 - [Optimus](https://github.com/Splode/optimus) - Image compression, optimization and conversion desktop app.

@@ -67,6 +67,7 @@
 - [Transok](https://github.com/bent2685/transok-wails) - На основе Wails + React, инструмент для передачи файлов в локальной сети.
 - [Cantor](https://github.com/evercyan/cantor) - Личное приложение для хранения изображений на основе Wails + Vue + GitHub API.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - Десктопное приложение с множеством полезных инструментов для разработчиков ПО.
+- [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - Кроссплатформенный настраиваемый эмулятор терминала в научно-фантастическом стиле, переписанный с использованием Go и Wails. Включает мониторинг системы в реальном времени, поддержку сенсорных экранов и футуристические темы. Размер уменьшен с больших размеров Electron до всего 41.9MB.
 - [Restmate](https://github.com/aunjaffery/restmate) - Современный легковесный кроссплатформенный клиент для Rest API, предназначенный для упрощения и ускорения процесса тестирования для разработчиков.
 - [Justnotes](https://github.com/justmiles/justnotes) - Редактор Markdown, похожий на Typora.
 - [Optimus](https://github.com/Splode/optimus) - Десктопное приложение для сжатия, оптимизации и конвертации изображений.

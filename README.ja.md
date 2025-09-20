@@ -69,6 +69,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Transok](https://github.com/bent2685/transok-wails) - wails + reactで実現されたローカルエリアネットワークファイル転送ツール
 - [Cantor](https://github.com/evercyan/cantor) - wails + vue + github-api をベースにした個人用画像ベッドアプリ
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - ソフトウェア開発者のための多くの便利なツールを備えたデスクトップアプリケーション
+- [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - Go と Wails で再構築されたクロスプラットフォームのカスタマイズ可能なSF風ターミナルエミュレータ。リアルタイムシステム監視、タッチスクリーンサポート、未来主義的なテーマを特徴とします。Electron の大きなフットプリントからわずか 41.9MB に削減されました。
 - [Justnotes](https://github.com/justmiles/justnotes) - typora に似たマークダウンエディター
 - [Optimus](https://github.com/Splode/optimus) - 画像の圧縮・最適化・変換を行うデスクトップアプリ
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - ポリゴン化した画像を生成するために Triangula を使用し、フロントエンドに Wails を使用した軽量なアプリ
