@@ -118,6 +118,7 @@
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - Простой клиент для управления объектами S3, теоретически поддерживающий управление всеми хранилищами, совместимыми с протоколом S3.
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - Эффективный блокировщик рекламы и защитник конфиденциальности для Windows, macOS и Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - Приложение, которое помогает управлять продуктивностью и периодами отдыха в течение дня.
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - Инструмент для разработчиков для удобной записи текстовых фрагментов
 
 ### С закрытым исходным кодом
 

@@ -99,6 +99,7 @@
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - 一个简单的S3对象存储客户端，理论上可以支持管理所有兼容S3协议的存储桶
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) - 基于Wails构建的一体化网络扫描工具。
 - [Yaimg](https://github.com/asktiny/yaimg) - 一款简洁高效的桌面端图片压缩软件，支持多种主流图片格式
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - 一个专为开发者打造的优雅文本片段记录工具
 
 ### 闭源
 
