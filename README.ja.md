@@ -34,7 +34,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
 
 </samp>
 </strong>
@@ -54,6 +54,9 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 ## テンプレート
 
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - Vue と Vue-Router をベースにした wails テンプレート
+- [wails-template-primevue-sakai](https://github.com/TekWizely/wails-template-primevue-sakai) - 無料のPrimeVue Sakaiアプリケーションテンプレート（Vite、Vue、PrimeVue、TailwindCSS、Vue Router、テーマ、ダークモード、UIコンポーネントなど）に基づいたWailsテンプレート
+
+## Starter
 
 ## スターター
 
@@ -63,6 +66,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 
 ### オープンソース
 
+- [Transok](https://github.com/bent2685/transok-wails) - wails + reactで実現されたローカルエリアネットワークファイル転送ツール
 - [Cantor](https://github.com/evercyan/cantor) - wails + vue + github-api をベースにした個人用画像ベッドアプリ
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - ソフトウェア開発者のための多くの便利なツールを備えたデスクトップアプリケーション
 - [Justnotes](https://github.com/justmiles/justnotes) - typora に似たマークダウンエディター
@@ -72,10 +76,14 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - ストV CFN トラッカー
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大規模言語モデルの管理、起動、およびインタラクティブツール、OpenAI互換のAPIを備えています
 - [Callie](https://github.com/MikeyA-yo/callie) - グループ通話や会議通話を行うためのデスクトップアプリケーション
+- [Maxx-gui](https://github.com/dusbot/maxx-gui) — Wailsで構築されたオールインワンネットワークスキャンツール。
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - 開発者向けの優雅なテキストスニペット記録ツール
+- [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
 
 ### クローズド ソース
 
 - [小白兔 AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上 AI ツールキット
+- [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 
 ## チュートリアル
 
