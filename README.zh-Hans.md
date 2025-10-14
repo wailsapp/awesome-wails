@@ -93,13 +93,14 @@
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - 自选股票行情获取，成本盈亏展示,涨跌报警推送。数据全部保留在本地
 - [Sync Folder](https://github.com/zaaack/sync-folder) - 一个简单的文件夹同步托盘应用，后台内存占用极少。
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - 一个简单的S3对象存储客户端，理论上可以支持管理所有兼容S3协议的存储桶
+- [PP钢琴键盘](https://github.com/Peiratooo/Peirato-s-Piano) - 轻量桌面钢琴键盘，支持连接MIDI设备。
 
 ### 闭源
 
 - [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
 - [飞鸟视频下载器](https://github.com/youwen21/flybird-m3u8downloader) - 一个M3u8视频下载器，支持导出MP4。
-- [PP钢琴键盘](https://piano.peirato.com/) - 轻量桌面钢琴键盘，支持连接MIDI设备。
+
 
 ## 教程
 

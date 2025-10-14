@@ -72,6 +72,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - ストV CFN トラッカー
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大規模言語モデルの管理、起動、およびインタラクティブツール、OpenAI互換のAPIを備えています
 - [Callie](https://github.com/MikeyA-yo/callie) - グループ通話や会議通話を行うためのデスクトップアプリケーション
+- [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
 
 ### クローズド ソース
 

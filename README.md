@@ -115,6 +115,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [PZ Admin](https://github.com/beyenilmez/pz-admin) - A desktop application for managing Project Zomboid servers with RCON.
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - A simple S3 object storage client that can theoretically support the management of all buckets compatible with the S3 protocol
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - An efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
+
 
 ### Closed Source
 
@@ -122,11 +124,11 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
 
+
 ## Tutorials
 
 - [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
 - [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
 - [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An easy-to-use m3u8 downloader
-- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 
 ## Articles
