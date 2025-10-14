@@ -63,7 +63,7 @@
 ## Приложения
 
 ### С открытым исходным кодом
-
+- [MockWails](https://github.com/tacheraSasi/mockwails) - Комплексное десктопное приложение для разработчиков, тестировщиков и API-дизайнеров для эффективного создания и управления mock HTTP-серверами.
 - [Transok](https://github.com/bent2685/transok-wails) - На основе Wails + React, инструмент для передачи файлов в локальной сети.
 - [Cantor](https://github.com/evercyan/cantor) - Личное приложение для хранения изображений на основе Wails + Vue + GitHub API.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - Десктопное приложение с множеством полезных инструментов для разработчиков ПО.
@@ -118,6 +118,7 @@
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - Простой клиент для управления объектами S3, теоретически поддерживающий управление всеми хранилищами, совместимыми с протоколом S3.
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - Эффективный блокировщик рекламы и защитник конфиденциальности для Windows, macOS и Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - Приложение, которое помогает управлять продуктивностью и периодами отдыха в течение дня.
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - Инструмент для разработчиков для удобной записи текстовых фрагментов
 
 ### С закрытым исходным кодом
 

@@ -63,7 +63,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
-
+- [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently. 
 - [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
@@ -119,16 +119,22 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - A simple S3 object storage client that can theoretically support the management of all buckets compatible with the S3 protocol
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - An efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - An app that helps you manage Productivity and Rest periods throughout the day.
+- [goer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) - A powerful all-in-one network scanning tool built with wails.
 - [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
 - [HurlStudio](https://github.com/the-sumeet/hurlstudio) - GUI for [Hurl](https://hurl.dev/).
+- [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer. 
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - An elegant text snippet recording tool designed for developers.
+- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
+- [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
 
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
+- [Mchat](https://marcio199226.github.io/mchat-site/public/) -  Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 
 ## Tutorials
@@ -136,6 +142,5 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
 - [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
 - [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An easy-to-use m3u8 downloader
-- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 
 ## Articles
