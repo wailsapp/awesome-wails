@@ -69,6 +69,7 @@
 - [Transok](https://github.com/bent2685/transok-wails) - 基于 wails + react 实现的局域网文件传输工具
 - [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床。
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - 一款集成众多开发工具的软件。
+- [eDEX-UI Golang](https://github.com/GxxkX/edex-ui-golang) - 使用 Go 和 Wails 重构的跨平台科幻风格终端模拟器。具有实时系统监控、触摸屏支持和未来主义主题。软件大小从 Electron 的大体积减少到仅 41.9MB。
 - [Justnotes](https://github.com/justmiles/justnotes) - 一款风格类似 typora 的 markdown 编辑器。
 - [Optimus](https://github.com/Splode/optimus) - 一款图片压缩、优化和格式转换软件。
 - [Triangula GUI](https://github.com/RH12503/triangula-gui) - 一款任意图片生成三角棱形图片。
