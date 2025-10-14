@@ -65,7 +65,7 @@
 ## 应用
 
 ### 开源
-
+- [MockWails](https://github.com/tacheraSasi/mockwails) - 一款为开发者、测试者和API设计师高效创建和管理mock HTTP服务器的综合桌面应用。
 - [Transok](https://github.com/bent2685/transok-wails) - 基于 wails + react 实现的局域网文件传输工具
 - [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床。
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - 一款集成众多开发工具的软件。
@@ -98,15 +98,17 @@
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - 自选股票行情获取，成本盈亏展示,涨跌报警推送。数据全部保留在本地
 - [Sync Folder](https://github.com/zaaack/sync-folder) - 一个简单的文件夹同步托盘应用，后台内存占用极少。
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - 一个简单的S3对象存储客户端，理论上可以支持管理所有兼容S3协议的存储桶
+- [goer](https://github.com/Illusionna/LocalTransfer) - 轻量小巧快速上手的跨平台 HTTP 文件服务器
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) - 基于Wails构建的一体化网络扫描工具。
 - [Yaimg](https://github.com/asktiny/yaimg) - 一款简洁高效的桌面端图片压缩软件，支持多种主流图片格式
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - 一个专为开发者打造的优雅文本片段记录工具
+- [PP钢琴键盘](https://github.com/Peiratooo/Peirato-s-Piano) - 轻量桌面钢琴键盘，支持连接MIDI设备。
 
 ### 闭源
 
 - [小白兔 AI](https://xiaobaituai.com/download) - 一款专为内容创造者赋能的生产力 AI 工具箱。
 - [Firebox](https://github.com/LvBay/firebox) - 一个基于 riot LCU 接口开发的桌面应用，适用于英雄联盟。
 - [飞鸟视频下载器](https://github.com/youwen21/flybird-m3u8downloader) - 一个M3u8视频下载器，支持导出MP4。
-- [PP钢琴键盘](https://piano.peirato.com/) - 轻量桌面钢琴键盘，支持连接MIDI设备。
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
 
 ## 教程

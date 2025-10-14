@@ -65,7 +65,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 ## アプリ
 
 ### オープンソース
-
+- [MockWails](https://github.com/tacheraSasi/mockwails) - 開発者、テスター、API設計者のための、モックHTTPサーバーを効率的に作成・管理できる包括的なデスクトップアプリケーション。
 - [Transok](https://github.com/bent2685/transok-wails) - wails + reactで実現されたローカルエリアネットワークファイル転送ツール
 - [Cantor](https://github.com/evercyan/cantor) - wails + vue + github-api をベースにした個人用画像ベッドアプリ
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - ソフトウェア開発者のための多くの便利なツールを備えたデスクトップアプリケーション
@@ -77,7 +77,10 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [CFN Tracker](https://github.com/GreenSoap/cfn-tracker) - ストV CFN トラッカー
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大規模言語モデルの管理、起動、およびインタラクティブツール、OpenAI互換のAPIを備えています
 - [Callie](https://github.com/MikeyA-yo/callie) - グループ通話や会議通話を行うためのデスクトップアプリケーション
+- [goer](https://github.com/Illusionna/LocalTransfer) - クロスプラットフォームのHTTPファイルサーバーです
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) — Wailsで構築されたオールインワンネットワークスキャンツール。
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - 開発者向けの優雅なテキストスニペット記録ツール
+- [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
 
 ### クローズド ソース
 
