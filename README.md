@@ -123,6 +123,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
 - [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer. 
+- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 - [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
 
 ### Closed Source
@@ -137,6 +138,5 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
 - [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
 - [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An easy-to-use m3u8 downloader
-- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 
 ## Articles
