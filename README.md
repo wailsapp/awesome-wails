@@ -123,6 +123,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
 - [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer. 
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - An elegant text snippet recording tool designed for developers.
 - [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 - [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
 

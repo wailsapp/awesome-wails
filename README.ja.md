@@ -77,7 +77,9 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大規模言語モデルの管理、起動、およびインタラクティブツール、OpenAI互換のAPIを備えています
 - [Callie](https://github.com/MikeyA-yo/callie) - グループ通話や会議通話を行うためのデスクトップアプリケーション
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) — Wailsで構築されたオールインワンネットワークスキャンツール。
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - 開発者向けの優雅なテキストスニペット記録ツール
 - [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
+
 ### クローズド ソース
 
 - [小白兔 AI](https://xiaobaituai.com/download) - コンテンツクリエイターを支援する生産性向上 AI ツールキット
