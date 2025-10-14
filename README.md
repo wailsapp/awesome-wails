@@ -34,7 +34,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 <strong>
 <samp>
 
-[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md)
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
 
 </samp>
 </strong>
@@ -54,6 +54,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Templates
 
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A wails template based on Vue and Vue-Router
+- [wails-template-primevue-sakai](https://github.com/TekWizely/wails-template-primevue-sakai) - Wails tempate based on the [Free PrimeVue Sakai Application Template](https://sakai.primevue.org) (Vite, Vue, PrimeVue, TailwindCSS, Routing, Themes, Dark Mode, UI Components, more)
 
 ## Starter
 
@@ -62,6 +63,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
+
+- [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
 - [Restmate](https://github.com/aunjaffery/restmate) - Restmate is a modern lightweight cross-platform Rest API Client, designed to simplify and expedite the testing process for developers.
@@ -97,7 +100,6 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Easygen](https://github.com/faith0831/easygen) - A simple and easy-to-use code generator that can effectively reduce repetitive work and improve development efficiency.
 - [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
-- [AeroMod](https://github.com/fly2z/aeromod) - An external mod manager for Microsoft Flight Simulator.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
 - [Serpico](https://github.com/leoantony72/serpico) - File Organizer: organize files by year,month and file type.
@@ -107,6 +109,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - A Windows application for exporting and viewing WeChat chat history on PC.
 - [WailsTerm](https://github.com/rlshukhov/wailsterm) - A simple translucent terminal app build with Wails and Xterm.js
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client.
+- [ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client.
 - [Minesweeper XP](https://git.new/Minesweeper-XP) - Experience the classic Minesweeper XP (+ 98 and 3.1) on macOS, Windows, and Linux!
 - [grpcmd-gui](https://grpc.md/gui) - A modern cross-platform desktop app and API client for gRPC development and testing.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - A chinese stock data viewer build by Wails with NavieUI.
@@ -117,18 +120,26 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - An efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - An app that helps you manage Productivity and Rest periods throughout the day.
 - [goer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server
+- [Maxx-gui](https://github.com/dusbot/maxx-gui) - A powerful all-in-one network scanning tool built with wails.
+- [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
+- [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
+- [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer. 
+- [Voidraft](https://github.com/landaiqing/voidraft.git) - An elegant text snippet recording tool designed for developers.
+- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
+- [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
 
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
 - [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
+- [Mchat](https://marcio199226.github.io/mchat-site/public/) -  Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
+- [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 
 ## Tutorials
 
 - [Build a cross-platform desktop application with Go and Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - A tutorial by Twilio
 - [An introduction to Go, by leveraging your favorite JS flavor](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o)
 - [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - An easy-to-use m3u8 downloader
-- [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 
 ## Articles
