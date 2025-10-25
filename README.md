@@ -129,6 +129,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - An elegant text snippet recording tool designed for developers.
 - [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 - [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
+- [Checklist](https://github.com/nicolasghs/checklist) - A clean cross-platform task manager application
 
 ### Closed Source
 
