@@ -81,6 +81,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Maxx-gui](https://github.com/dusbot/maxx-gui) — Wailsで構築されたオールインワンネットワークスキャンツール。
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - 開発者向けの優雅なテキストスニペット記録ツール
 - [Peirato's Piano](https://github.com/Peiratooo/Peirato-s-Piano) - 軽量なデスクトップ用ピアノキーボード。MIDIデバイスの接続に対応しています。
+- [WhoDB](https://github.com/clidey/whodb) - Postgres、MySQL、MariaDB、SQLite、Redis、MongoDBなどに対応した、軽量でモダンなデータベース管理ツール。
 
 ### クローズド ソース
 
