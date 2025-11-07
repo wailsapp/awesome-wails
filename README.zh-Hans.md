@@ -103,6 +103,7 @@
 - [Yaimg](https://github.com/asktiny/yaimg) - 一款简洁高效的桌面端图片压缩软件，支持多种主流图片格式
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - 一个专为开发者打造的优雅文本片段记录工具
 - [PP钢琴键盘](https://github.com/Peiratooo/Peirato-s-Piano) - 轻量桌面钢琴键盘，支持连接MIDI设备。
+- [WhoDB](https://github.com/clidey/whodb) - 一款轻量级现代化数据库管理工具，支持Postgres、MySQL、MariaDB、SQLite、Redis、MongoDB等多种数据库。
 
 ### 闭源
 

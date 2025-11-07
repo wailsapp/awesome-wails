@@ -130,6 +130,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 - [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
 - [Checklist](https://github.com/nicolasghs/checklist) - A clean cross-platform task manager application
+- [WhoDB](https://github.com/clidey/whodb) - A lightweight modern database management tool that supports Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB, and more.
 
 ### Closed Source
 

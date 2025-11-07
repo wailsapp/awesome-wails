@@ -120,6 +120,7 @@
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - Эффективный блокировщик рекламы и защитник конфиденциальности для Windows, macOS и Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - Приложение, которое помогает управлять продуктивностью и периодами отдыха в течение дня.
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - Инструмент для разработчиков для удобной записи текстовых фрагментов
+- [WhoDB](https://github.com/clidey/whodb) - Легкое современное средство управления базами данных, поддерживающее Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB и многое другое.
 
 ### С закрытым исходным кодом
 
