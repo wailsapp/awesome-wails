@@ -110,6 +110,7 @@
 - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - Приложение для Windows для экспорта и просмотра истории чатов WeChat на ПК.
 - [WailsTerm](https://github.com/rlshukhov/wailsterm) - Простое полупрозрачное терминальное приложение, созданное с использованием Wails и Xterm.js.
 - [Kafka-King](https://github.com/Bronya0/Kafka-King) - Современный и практичный GUI-клиент для Kafka.
+- [ES-King](https://github.com/Bronya0/ES-King) - Современный и практичный GUI-клиент для Elasticsearch.
 - [Minesweeper XP](https://git.new/Minesweeper-XP) - Испытайте классический Minesweeper XP (+ 98 и 3.1) на macOS, Windows и Linux!
 - [grpcmd-gui](https://grpc.md/gui) - Современное кроссплатформенное десктопное приложение и клиент API для разработки и тестирования gRPC.
 - [go-stock](https://github.com/ArvinLovegood/go-stock) - Просмотр данных китайских акций, созданный с использованием Wails и NavieUI.
@@ -119,22 +120,31 @@
 - [SRSC-Client](https://github.com/ooyyh/SRSC-Client) - Простой клиент для управления объектами S3, теоретически поддерживающий управление всеми хранилищами, совместимыми с протоколом S3.
 - [Zen](https://github.com/ZenPrivacy/zen-desktop) - Эффективный блокировщик рекламы и защитник конфиденциальности для Windows, macOS и Linux.
 - [Balance Timer](https://github.com/gVguy/balance-timer) - Приложение, которое помогает управлять продуктивностью и периодами отдыха в течение дня.
+- [goer](https://github.com/Illusionna/LocalTransfer) - Быстрый кроссплатформенный HTTP-файловый сервер.
+- [Maxx-gui](https://github.com/dusbot/maxx-gui) - Мощный универсальный сетевой сканер, созданный на Wails.
+- [WailBrew](https://github.com/wickenico/WailBrew) - Минималистичный GUI для Homebrew на macOS.
+- [Yaimg](https://github.com/asktiny/yaimg) - Лаконичное и эффективное десктопное ПО для сжатия изображений, поддерживает популярные форматы.
+- [HurlStudio](https://github.com/the-sumeet/hurlstudio) - GUI для [Hurl](https://hurl.dev/).
+- [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - Кроссплатформенный визуализатор файловой системы на основе treemap.
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - Инструмент для разработчиков для удобной записи текстовых фрагментов
+- [Peirato's Piano](https://piano.peirato.com/) - Легковесная десктопная клавиатура пианино с поддержкой подключения MIDI-устройств.
+- [Zettl](https://github.com/vlin02/zettl) - Быстрый и легкий буфер обмена для macOS с автоматической подсветкой синтаксиса.
+- [Checklist](https://github.com/nicolasghs/checklist) - Чистое кроссплатформенное приложение для управления задачами.
 - [WhoDB](https://github.com/clidey/whodb) - Легкое современное средство управления базами данных, поддерживающее Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB и многое другое.
+- [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - GUI-инструмент для пакетной загрузки изображений и видео оригинального качества из аккаунтов Twitter/X, работает на базе gallery-dl от [@mikf](https://github.com/mikf/gallery-dl)
 
 ### С закрытым исходным кодом
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - Простое в использовании приложение с искусственным интеллектом.
 - [Firebox](https://gitee.com/fireclub/firebox) - Десктопное приложение, разработанное на основе интерфейса Riot LCU для League of Legends.
 - [Krater](https://moonguard.dev/krater) - Легковесное кроссплатформенное десктопное приложение, которое революционизирует отладку приложений Laravel.
+- [Mchat](https://marcio199226.github.io/mchat-site/public/) - Анонимный мультиплатформенный чат с некоторыми уникальными возможностями ([Webapp](https://mchat-web-client.vercel.app/#/home)).
 - [Tuna Desktop](https://tuna.am/blog/tuna-desktop-first/) - Приложение для создания HTTP/TCP туннелей для доступа из интернета к localhost.
-- [Maxx-gui](https://github.com/dusbot/maxx-gui) — мощный универсальный сетевой сканер, созданный на wails.
 
 ## Учебные материалы
 
 - [Создание кроссплатформенного десктопного приложения с Go и Wails](https://www.twilio.com/blog/build-cross-platform-desktop-application-go-wails) - Учебник от Twilio.
 - [Введение в Go, используя ваш любимый JS](https://dev.to/mvaodhan/an-introduction-to-go-by-leveraging-your-favorite-js-flavor-192o).
 - [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - Простой в использовании загрузчик m3u8.
-- [Peirato's Piano](https://piano.peirato.com/) - Легковесная клавиатура для игры на пианино, поддерживающая подключение к MIDI-устройствам.
 
 ## Статьи
