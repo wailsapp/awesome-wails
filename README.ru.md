@@ -132,6 +132,7 @@
 - [Checklist](https://github.com/nicolasghs/checklist) - Чистое кроссплатформенное приложение для управления задачами.
 - [WhoDB](https://github.com/clidey/whodb) - Легкое современное средство управления базами данных, поддерживающее Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB и многое другое.
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - GUI-инструмент для пакетной загрузки изображений и видео оригинального качества из аккаунтов Twitter/X, работает на базе gallery-dl от [@mikf](https://github.com/mikf/gallery-dl)
+- [cattail](https://github.com/nerdyslacker/cattail) - Неофициальный клиент Tailscale/Headscale для Windows и Linux.
 
 ### С закрытым исходным кодом
 
