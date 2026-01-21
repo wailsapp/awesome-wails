@@ -132,6 +132,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Checklist](https://github.com/nicolasghs/checklist) - A clean cross-platform task manager application
 - [WhoDB](https://github.com/clidey/whodb) - A lightweight modern database management tool that supports Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB, and more.
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - A GUI tool to download original-quality images and videos from Twitter/X accounts, powered by gallery-dl by [@mikf](https://github.com/mikf/gallery-dl)
+- [DynamoLens](https://github.com/rasjonell/dynamo-lens) - AWS DynamoDB Desktop Companion with Automated Workflows
 
 ### Closed Source
 
