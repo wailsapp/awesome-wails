@@ -133,6 +133,7 @@
 - [Checklist](https://github.com/nicolasghs/checklist) - 一款简洁的跨平台任务管理应用。
 - [WhoDB](https://github.com/clidey/whodb) - 一款轻量级现代化数据库管理工具，支持Postgres、MySQL、MariaDB、SQLite、Redis、MongoDB等多种数据库。
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - 用于从 Twitter/X 账号批量下载原始画质图片与视频的 GUI 工具，基于 gallery-dl（by [@mikf](https://github.com/mikf/gallery-dl)）。
+- [cattail](https://github.com/nerdyslacker/cattail) - 适用于 Windows 和 Linux 的非官方 Tailscale / Headscale 客户端。
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – 用于管理 [Ya CLI](https://github.com/d3uceY/Ya-CLI) 命令行快捷方式和别名的现代桌面应用程序。
 
 ### 闭源
