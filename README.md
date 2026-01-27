@@ -63,7 +63,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ## Apps
 
 ### Open Source
-- [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently. 
+
+- [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
 - [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
@@ -99,7 +100,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) - A modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
 - [Nuga](https://github.com/mishamyrt/nuga-app) - Application for controlling NuPhy® keyboards.
 - [Easygen](https://github.com/faith0831/easygen) - A simple and easy-to-use code generator that can effectively reduce repetitive work and improve development efficiency.
-- [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI.  Easily manage your NATS core, streams and buckets.
+- [Nui](https://natsnui.app/) - Free and Open Source NATS management GUI. Easily manage your NATS core, streams and buckets.
 - [Gahara Video Editor](https://github.com/Gahara-Editor/gahara) - Vim Inspired Video Editor.
 - [RocketBlend Desktop](https://github.com/rocketblend/rocketblend-desktop) - Standalone client, launcher and tools for Blender projects.
 - [Ai Gui](https://github.com/pwh-pwh/ai-gui) - A simple AI Q&A software developed using Wails for daily Q&A. The icons can be reduced for easy use at any time.
@@ -125,7 +126,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [WailBrew](https://github.com/wickenico/WailBrew) - A minimalistic Homebrew GUI for macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - A concise and efficient desktop image compression software that supportssmultiple mainstream image formats.
 - [HurlStudio](https://github.com/the-sumeet/hurlstudio) - GUI for [Hurl](https://hurl.dev/).
-- [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer. 
+- [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - A cross-platform treemap-based filesystem visualizer.
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - An elegant text snippet recording tool designed for developers.
 - [Peirato's Piano](https://piano.peirato.com/) - Lightweight desktop piano keyboard, supporting connection to MIDI devices.
 - [Zettl](https://github.com/vlin02/zettl) - Fast, lean, developer-centric MacOS clipboard app with automatic syntax highlighting.
@@ -135,13 +136,14 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [DynamoLens](https://github.com/rasjonell/dynamo-lens) - AWS DynamoDB Desktop Companion with Automated Workflows
 - [cattail](https://github.com/nerdyslacker/cattail) - An unofficial tailscale/headscale client for Windows and Linux.
 - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI).
+- [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor.
 
 ### Closed Source
 
 - [Xiaobaitu AI](https://xiaobaituai.com/download) - An easy-to-use artificial intelligence app
 - [Firebox](https://gitee.com/fireclub/firebox) - A desktop application developed based on riot LCU interface, for League of Legends
-- [Krater](https://moonguard.dev/krater) -  A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
-- [Mchat](https://marcio199226.github.io/mchat-site/public/) -  Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
+- [Krater](https://moonguard.dev/krater) - A lightweight, cross-platform desktop application that revolutionizes Laravel app debugging
+- [Mchat](https://marcio199226.github.io/mchat-site/public/) - Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 
 ## Tutorials
