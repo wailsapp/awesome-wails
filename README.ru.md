@@ -133,7 +133,8 @@
 - [WhoDB](https://github.com/clidey/whodb) - Легкое современное средство управления базами данных, поддерживающее Postgres, MySQL, MariaDB, SQLite, Redis, MongoDB и многое другое.
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - GUI-инструмент для пакетной загрузки изображений и видео оригинального качества из аккаунтов Twitter/X, работает на базе gallery-dl от [@mikf](https://github.com/mikf/gallery-dl)
 - [cattail](https://github.com/nerdyslacker/cattail) - Неофициальный клиент Tailscale/Headscale для Windows и Linux.
-- [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – Современное настольное приложение для управления ярлыками командной строки и алиасами для [Ya CLI](https://github.com/d3uceY/Ya-CLI).
+  - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – Современное настольное приложение для управления ярлыками командной строки и алиасами для [Ya CLI](https://github.com/d3uceY/Ya-CLI). Автор: [@d3uceY](https://github.com/d3uceY).
+  - [Clipcat](https://github.com/d3uceY/Clipcat) – Креативный и стильный менеджер буфера обмена для Windows, созданный на Wails. Автоматически сохраняет всё, что вы копируете, с красивым бумажным интерфейсом и мощными функциями. Автор: [@d3uceY](https://github.com/d3uceY).
 
 ### С закрытым исходным кодом
 
