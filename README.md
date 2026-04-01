@@ -138,6 +138,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI). By [@d3uceY](https://github.com/d3uceY).
   - [Clipcat](https://github.com/d3uceY/Clipcat) – A creative and stylish clipboard manager for Windows, built with Wails. Automatically records everything you copy, with a beautiful paper-aesthetic UI and powerful features. By [@d3uceY](https://github.com/d3uceY).
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor.
+- [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
 
 ### Closed Source
 
