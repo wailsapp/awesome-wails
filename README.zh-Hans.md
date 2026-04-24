@@ -127,6 +127,7 @@
 - [WailBrew](https://github.com/wickenico/WailBrew) - macOS 上极简的 Homebrew GUI。
 - [Yaimg](https://github.com/asktiny/yaimg) - 一款简洁高效的桌面端图片压缩软件，支持多种主流图片格式
 - [HurlStudio](https://github.com/the-sumeet/hurlstudio) - [Hurl](https://hurl.dev/) 的 GUI。
+- [Kite Desktop](https://github.com/eryajf/kite-desktop) - 一个基于 Wails v3 构建的 Kubernetes 多集群桌面管理工具。
 - [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - 跨平台 treemap 文件系统可视化工具。
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - 一个专为开发者打造的优雅文本片段记录工具
 - [PP钢琴键盘](https://github.com/Peiratooo/Peirato-s-Piano) - 轻量桌面钢琴键盘，支持连接MIDI设备。
