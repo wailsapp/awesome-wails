@@ -86,6 +86,7 @@
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - Мета-поисковая система для прямой загрузки и потоковых файлов в интернете.
 - [ChYing](https://github.com/yhy0/ChYing) - Комплексный инструмент безопасности, предназначенный для упрощения различных задач тестирования безопасности.
 - [QuickQuery](https://github.com/mmghv/QuickQuery) - Простой инструмент для выполнения запросов к SQL-базам данных, созданный с использованием Wails (Go и Vue.js).
+- [Loris Tunnel](https://github.com/RangerWolf/loris-tunnel-app/) - Быстрый и надежный менеджер SSH-туннелей с графическим интерфейсом для создания, управления и мониторинга туннелей с автоматическим переподключением.
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - Инструмент управления, запуска и взаимодействия с RWKV LLM, совместимый с API OpenAI.
 - [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Редактор уровней Supaplex для веба и десктопа.
 - [Rolens](https://github.com/garraflavatra/rolens) - Интуитивно понятный кроссплатформенный GUI для MongoDB.
