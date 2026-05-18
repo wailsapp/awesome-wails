@@ -87,6 +87,7 @@
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - 用于在 Internet 上直接下载（DDL）和流式传输文件的元搜索引擎。
 - [ChYing](https://github.com/yhy0/ChYing) - 承影 - 一款安全工具箱,集成了目录扫描、JWT、Swagger 测试、编/解码、轻量级 BurpSuite、杀软辅助等功能
 - [QuickQuery](https://github.com/mmghv/QuickQuery) - 一个简单的 SQL 数据库查询工具，使用 Wails（Go & Vue.js）构建。
+- [Loris Tunnel](https://github.com/RangerWolf/loris-tunnel-app/) - 一款快速可靠的 SSH 隧道管理器，可通过图形界面创建、管理和监控 SSH 隧道，并支持自动重连。
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV大语言模型管理，启动和交互工具，带有OpenAI兼容的API
 - [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Supaplex 关卡编辑器，支持 Web 与桌面端。
 - [Rolens](https://github.com/garraflavatra/rolens) - 直观易用的跨平台 MongoDB GUI。
