@@ -136,8 +136,9 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - A GUI tool to download original-quality images and videos from Twitter/X accounts, powered by gallery-dl by [@mikf](https://github.com/mikf/gallery-dl)
 - [DynamoLens](https://github.com/rasjonell/dynamo-lens) - AWS DynamoDB Desktop Companion with Automated Workflows
 - [cattail](https://github.com/nerdyslacker/cattail) - An unofficial tailscale/headscale client for Windows and Linux.
-  - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI). By [@d3uceY](https://github.com/d3uceY).
-  - [Clipcat](https://github.com/d3uceY/Clipcat) – A creative and stylish clipboard manager for Windows, built with Wails. Automatically records everything you copy, with a beautiful paper-aesthetic UI and powerful features. By [@d3uceY](https://github.com/d3uceY).
+- [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI). By [@d3uceY](https://github.com/d3uceY).
+- [Clipcat](https://github.com/d3uceY/Clipcat) – A creative and stylish clipboard manager for Windows, built with Wails. Automatically records everything you copy, with a beautiful paper-aesthetic UI and powerful features. By [@d3uceY](https://github.com/d3uceY).
+- [Cokpyt](https://github.com/d3uceY/Cokpyt) – A desktop GUI for pip with direct access to PyPI. Because life is too short for the terminal. [[Docs](https://d3ucey.github.io/Cokpyt/)] By [@d3uceY](https://github.com/d3uceY).
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor.
 
 ### Closed Source

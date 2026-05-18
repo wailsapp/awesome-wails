@@ -138,6 +138,7 @@
 - [cattail](https://github.com/nerdyslacker/cattail) - 适用于 Windows 和 Linux 的非官方 Tailscale / Headscale 客户端。
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – 用于管理 [Ya CLI](https://github.com/d3uceY/Ya-CLI) 命令行快捷方式和别名的现代桌面应用程序。作者: [@d3uceY](https://github.com/d3uceY)
   - [Clipcat](https://github.com/d3uceY/Clipcat) – 一款由 Wails 构建的创意且时尚的 Windows 剪贴板管理器。自动记录你复制的所有内容，拥有美观的纸张风格界面和强大功能。作者: [@d3uceY](https://github.com/d3uceY)
+  - [Cokpyt](https://github.com/d3uceY/Cokpyt) – 可直接访问 PyPI 的 pip 桌面 GUI。因为人生苦短，不必总用终端。[[文档](https://d3ucey.github.io/Cokpyt/)] 作者: [@d3uceY](https://github.com/d3uceY)
 
 ### 闭源
 
