@@ -137,6 +137,7 @@
 - [cattail](https://github.com/nerdyslacker/cattail) - Неофициальный клиент Tailscale/Headscale для Windows и Linux.
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – Современное настольное приложение для управления ярлыками командной строки и алиасами для [Ya CLI](https://github.com/d3uceY/Ya-CLI). Автор: [@d3uceY](https://github.com/d3uceY).
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Креативный и стильный менеджер буфера обмена для Windows, созданный на Wails. Автоматически сохраняет всё, что вы копируете, с красивым бумажным интерфейсом и мощными функциями. Автор: [@d3uceY](https://github.com/d3uceY).
+- [Clustta](https://github.com/eaxum/clustta-client) - Файловый менеджер с открытым исходным кодом, инструмент для совместной работы и контроля версий для творческих проектов.
 
 ### С закрытым исходным кодом
 
