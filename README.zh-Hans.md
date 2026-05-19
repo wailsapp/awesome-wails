@@ -138,6 +138,7 @@
 - [cattail](https://github.com/nerdyslacker/cattail) - 适用于 Windows 和 Linux 的非官方 Tailscale / Headscale 客户端。
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – 用于管理 [Ya CLI](https://github.com/d3uceY/Ya-CLI) 命令行快捷方式和别名的现代桌面应用程序。作者: [@d3uceY](https://github.com/d3uceY)
   - [Clipcat](https://github.com/d3uceY/Clipcat) – 一款由 Wails 构建的创意且时尚的 Windows 剪贴板管理器。自动记录你复制的所有内容，拥有美观的纸张风格界面和强大功能。作者: [@d3uceY](https://github.com/d3uceY)
+- [NetraX](https://github.com/jigarvarma2k20/NetraX) - 款 HTTP 流量拦截与安全分析工具包，是 Burp Suite 的开源核心替代方案。
 
 ### 闭源
 
