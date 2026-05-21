@@ -65,6 +65,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ### Open Source
 
 - [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
+- [adOmnia](https://github.com/Andrea-Cavallo/adOmnia) - A local-first API toolbox for developers. HTTP, gRPC, SOAP, message brokers, proxy interceptor, mock server, load testing, and integrated browser debugging. Single portable binary, no account, no telemetry.
 - [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
 - [Cantor](https://github.com/evercyan/cantor) - Personal image bed app based on wails + vue + github-api.
 - [DevToolKit](https://github.com/qaware/dev-tool-kit) - This repository contains a desktop application with many useful tools for software developers.
