@@ -127,6 +127,7 @@
 - [WailBrew](https://github.com/wickenico/WailBrew) - Минималистичный GUI для Homebrew на macOS.
 - [Yaimg](https://github.com/asktiny/yaimg) - Лаконичное и эффективное десктопное ПО для сжатия изображений, поддерживает популярные форматы.
 - [HurlStudio](https://github.com/the-sumeet/hurlstudio) - GUI для [Hurl](https://hurl.dev/).
+- [Kite Desktop](https://github.com/eryajf/kite-desktop) - Десктопное приложение для управления несколькими кластерами Kubernetes, созданное на Wails v3.
 - [SpaceBrowser](https://github.com/Kiord/SpaceBrowser) - Кроссплатформенный визуализатор файловой системы на основе treemap.
 - [Voidraft](https://github.com/landaiqing/voidraft.git) - Инструмент для разработчиков для удобной записи текстовых фрагментов
 - [Peirato's Piano](https://piano.peirato.com/) - Легковесная десктопная клавиатура пианино с поддержкой подключения MIDI-устройств.
