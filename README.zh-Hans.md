@@ -64,6 +64,7 @@
 
 ### 开源
 
+- [Klustr](https://github.com/SametKUM/klustr) - 快速轻量的 Kubernetes 桌面客户端。支持多集群聚合、基于 informer 的实时界面，内置 Helm、Argo CD、Flux CD 和 Gateway API 支持。无需在集群中安装任何组件。
 - [MockWails](https://github.com/tacheraSasi/mockwails) - 一款为开发者、测试者和API设计师高效创建和管理mock HTTP服务器的综合桌面应用。
 - [Transok](https://github.com/bent2685/transok-wails) - 基于 wails + react 实现的局域网文件传输工具
 - [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床。
