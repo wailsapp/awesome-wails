@@ -65,6 +65,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 ### Open Source
 
 - [Klustr](https://github.com/SametKUM/klustr) - A fast, lightweight Kubernetes desktop client. Multi-cluster aggregation, live informer-driven UI, and built-in Helm, Argo CD, Flux CD and Gateway API support. Nothing is installed in the cluster.
+- [solo](https://github.com/raml-dev/solo) - The lightweight, fast, open-source API client for modern development.
 - [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
 - [adOmnia](https://github.com/Andrea-Cavallo/adOmnia) - A local-first API toolbox for developers. HTTP, gRPC, SOAP, message brokers, proxy interceptor, mock server, load testing, and integrated browser debugging. Single portable binary, no account, no telemetry.
 - [Transok](https://github.com/bent2685/transok-wails) - Based on wails + react, a local area network file transfer tool.
