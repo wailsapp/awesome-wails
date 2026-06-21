@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ### Open Source
 
+- [uniTerm](https://github.com/ys-ll/uniterm) - A terminal software powered by an autonomous AI Agent, with full remote access support: SSH/Telnet/Mosh, SFTP/FTP, RDP/VNC/SPICE, database, SSH tunnel, and server monitor.
 - [Klustr](https://github.com/SametKUM/klustr) - A fast, lightweight Kubernetes desktop client. Multi-cluster aggregation, live informer-driven UI, and built-in Helm, Argo CD, Flux CD and Gateway API support. Nothing is installed in the cluster.
 - [solo](https://github.com/raml-dev/solo) - The lightweight, fast, open-source API client for modern development.
 - [MockWails](https://github.com/tacheraSasi/mockwails) - A comprehensive desktop application for developers, testers, and API designers to create and manage mock HTTP servers efficiently.
