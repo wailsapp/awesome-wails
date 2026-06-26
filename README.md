@@ -154,6 +154,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - Anonymous & multiplatform chat app with some unique features [Webapp](https://mchat-web-client.vercel.app/#/home)
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - Application for create HTTP/TCP tunnels for access from internet to localhost
 - [DBNova](https://dbnova.ruiransoft.com/) - A developer-friendly database client supporting both SQL and NoSQL, featuring a built-in TypeScript query builder.
+- [Kira](https://kira.thiennguyen.dev/) - A native macOS desktop client for AWS that also ships with a PostgreSQL/MySQL SQL client.
 
 ## Tutorials
 
