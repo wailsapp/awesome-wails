@@ -141,11 +141,12 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Twitter/X Media Batch Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - A GUI tool to download original-quality images and videos from Twitter/X accounts, powered by gallery-dl by [@mikf](https://github.com/mikf/gallery-dl)
 - [DynamoLens](https://github.com/rasjonell/dynamo-lens) - AWS DynamoDB Desktop Companion with Automated Workflows
 - [cattail](https://github.com/nerdyslacker/cattail) - An unofficial tailscale/headscale client for Windows and Linux.
-  - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI). By [@d3uceY](https://github.com/d3uceY).
-  - [Clipcat](https://github.com/d3uceY/Clipcat) – A creative and stylish clipboard manager for Windows, built with Wails. Automatically records everything you copy, with a beautiful paper-aesthetic UI and powerful features. By [@d3uceY](https://github.com/d3uceY).
+- [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – A modern desktop application for managing command-line shortcuts and aliases for the [Ya CLI](https://github.com/d3uceY/Ya-CLI). By [@d3uceY](https://github.com/d3uceY).
+- [Clipcat](https://github.com/d3uceY/Clipcat) – A creative and stylish clipboard manager for Windows, built with Wails. Automatically records everything you copy, with a beautiful paper-aesthetic UI and powerful features. By [@d3uceY](https://github.com/d3uceY).
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor.
 - [BeamSync](https://github.com/PranavAgarkar07/BeamSync) - A cross-platform desktop app for fast, offline peer-to-peer file transfers over LAN, with QR code sharing, drag & drop, and zero cloud dependency.
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTP traffic interception and security analysis toolkit and open source core alternative to the burp suit.
+- [condui](https://github.com/mgueregath/condui) - A cross-platform desktop workspace for remote infrastructure: SSH terminal, SFTP, tunnels, Docker container management, database exploration over SSH, and VirtualBox controls in one app.
 - [Mercury](https://github.com/striker561/Mercury) - LAN clipboard and file sharing with AES-256-GCM encryption, zero-config mDNS discovery, no cloud or accounts.
 
 ### Closed Source
