@@ -146,6 +146,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor.
 - [BeamSync](https://github.com/PranavAgarkar07/BeamSync) - A cross-platform desktop app for fast, offline peer-to-peer file transfers over LAN, with QR code sharing, drag & drop, and zero cloud dependency.
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTP traffic interception and security analysis toolkit and open source core alternative to the burp suit.
+- [MicroFIX](https://github.com/Infinage/microfix) - A modern, lightweight FIX protocol testing tool written in Go.
 - [condui](https://github.com/mgueregath/condui) - A cross-platform desktop workspace for remote infrastructure: SSH terminal, SFTP, tunnels, Docker container management, database exploration over SSH, and VirtualBox controls in one app.
 - [Mercury](https://github.com/striker561/Mercury) - LAN clipboard and file sharing with AES-256-GCM encryption, zero-config mDNS discovery, no cloud or accounts.
 
