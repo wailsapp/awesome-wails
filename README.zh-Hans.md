@@ -64,6 +64,7 @@
 
 ### 开源
 
+- [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - 轻量、高速、全平台的 SSH 客户端。基于 Go 原生并发 + 本机 WebSocket + xterm.js 提供低延迟终端，内置系统资源探针、远程文件管理器、AI 对话与 MCP 集成。
 - [Linkit](https://github.com/blue-idea/linkit) - 桌面端智能知识收藏空间，支持 AI 摘要、语义搜索与云同步。
 - [uniTerm](https://github.com/ys-ll/uniterm) - 一款由自主 AI Agent 驱动的终端软件，支持 SSH/Telnet/Mosh、SFTP/FTP、RDP/VNC/SPICE、数据库、SSH 隧道和服务器监控。
 - [Klustr](https://github.com/SametKUM/klustr) - 快速轻量的 Kubernetes 桌面客户端。支持多集群聚合、基于 informer 的实时界面，内置 Helm、Argo CD、Flux CD 和 Gateway API 支持。无需在集群中安装任何组件。

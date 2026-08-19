@@ -64,6 +64,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 
 ### オープンソース
 
+- [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - Go のネイティブ並行処理 + ローカル WebSocket + xterm.js をベースにした、軽量で高速なクロスプラットフォーム SSH クライアント。システムリソースプローブ、リモートファイルマネージャー、AI チャット、MCP 統合を内蔵。
 - [uniTerm](https://github.com/ys-ll/uniterm) - 自律型 AI Agent を搭載したターミナルソフト。SSH/Telnet/Mosh、SFTP/FTP、RDP/VNC/SPICE、データベース、SSH トンネル、サーバーモニタリングに対応。
 - [Klustr](https://github.com/SametKUM/klustr) - 高速で軽量なKubernetesデスクトップクライアント。マルチクラスター集約、インフォーマーによるライブ更新UI、Helm・Argo CD・Flux CD・Gateway APIを標準サポート。クラスターには何もインストールしません。
 - [MockWails](https://github.com/tacheraSasi/mockwails) - 開発者、テスター、API設計者のための、モックHTTPサーバーを効率的に作成・管理できる包括的なデスクトップアプリケーション。

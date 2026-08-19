@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ### Open Source
 
+- [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - A lightweight, high-performance, cross-platform SSH client built with Wails. Low-latency terminal via Go concurrency + local WebSocket + xterm.js, with system resource probe, remote file manager, AI chat and MCP integration.
 - [Linkit](https://github.com/blue-idea/linkit) - Smart knowledge curation desktop app with AI summarization, semantic search, and cloud sync.
 - [uniTerm](https://github.com/ys-ll/uniterm) - A terminal software powered by an autonomous AI Agent, with full remote access support: SSH/Telnet/Mosh, SFTP/FTP, RDP/VNC/SPICE, database, SSH tunnel, and server monitor.
 - [Klustr](https://github.com/SametKUM/klustr) - A fast, lightweight Kubernetes desktop client. Multi-cluster aggregation, live informer-driven UI, and built-in Helm, Argo CD, Flux CD and Gateway API support. Nothing is installed in the cluster.
