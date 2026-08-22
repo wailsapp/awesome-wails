@@ -92,6 +92,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [ChYing](https://github.com/yhy0/ChYing) - ChYing is a comprehensive security toolbox designed to simplify various security testing tasks.
 - [QuickQuery](https://github.com/mmghv/QuickQuery) - A simple SQL database query tool, built using Wails (Go & Vue.js)
 - [Loris Tunnel](https://github.com/RangerWolf/loris-tunnel-app/) - A fast, reliable SSH tunnel manager for creating, managing, and monitoring SSH tunnels with automatic reconnection.
+- [LineSolv](https://github.com/rkriad585/LineSolv) - A natural-language calculator desktop app with unit conversion, multi-note management, and privacy-first offline evaluation, built with Go and Wails.
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV LLM management, startup and interaction tool, with OpenAI compatible API
 - [SpLE](https://github.com/Vovan-VE/supaplex-levels-editor) - Supaplex Levels editor, both web and desktop
 - [Rolens](https://github.com/garraflavatra/rolens) - Intuitive cross-platform MongoDB GUI
