@@ -151,6 +151,7 @@
 - [Clustta](https://github.com/eaxum/clustta-client) - 面向艺术、游戏、视觉特效和动画领域的开源资产管理与版本控制软件。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 面向开发者的 AI SSH 工作区，集 SFTP、运维 Agent 于一体的客户端。
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - 一款基于 Wails v3 构建的跨平台 AI 桌面客户端。
+- [Tetiva](https://github.com/tetiva-app/client) - 支持 HTTP、gRPC、GraphQL 和 WebSocket 的桌面 API 客户端。集合、环境、带响应对比的历史记录和 Postman 导入，数据都保存在本地 SQLite 文件中。可离线使用，无需账号。
 
 ### 闭源
 

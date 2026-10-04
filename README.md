@@ -160,6 +160,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
+- [Tetiva](https://github.com/tetiva-app/client) - Desktop API client for HTTP, gRPC, GraphQL and WebSocket. Collections, environments, history with response diff and Postman import, all stored in a local SQLite file. Works offline, no account needed.
 
 ### Closed Source
 
