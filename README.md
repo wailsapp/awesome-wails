@@ -160,6 +160,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
+- [CashPilot Desktop](https://github.com/GeiserX/CashPilot-Desktop) - A local-first desktop app for macOS, Windows and Linux that deploys passive-income and DePIN services in Docker or Podman and monitors their earnings and health.
 
 ### Closed Source
 
