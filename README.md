@@ -160,6 +160,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
+- [Byp](https://github.com/devlsam/Byp) - A Ultra-Lightweight V2Ray & Xray Windows Client with Kernel-Level Split Tunneling & Gaming Performance Mode, in wails3.
+
 
 ### Closed Source
 
