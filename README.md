@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ### Open Source
 
+- [Kurlo](https://github.com/stormhop/kurlo) - A local-first API client for HTTP, GraphQL, gRPC, WebSocket, Socket.IO, SSE and MCP. Collections are YAML in your Git repo, Postman scripts run unchanged, requests can be checked against browser CORS and CSP rules, and an MCP server lets coding agents run and edit them.
 - [MQ Studio](https://github.com/amigoer/mq-studio) - A local-first desktop client for message queues. One pluggable driver model across RocketMQ, RabbitMQ and Kafka, with topics, consumer groups, messages and cluster health in the same pages. No web console to deploy.
 - [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - A lightweight, high-performance, cross-platform SSH client built with Wails. Low-latency terminal via Go concurrency + local WebSocket + xterm.js, with system resource probe, remote file manager, AI chat and MCP integration.
 - [Linkit](https://github.com/blue-idea/linkit) - Smart knowledge curation desktop app with AI summarization, semantic search, and cloud sync.
