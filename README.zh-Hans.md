@@ -151,6 +151,7 @@
 - [Clustta](https://github.com/eaxum/clustta-client) - 面向艺术、游戏、视觉特效和动画领域的开源资产管理与版本控制软件。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 面向开发者的 AI SSH 工作区，集 SFTP、运维 Agent 于一体的客户端。
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - 一款基于 Wails v3 构建的跨平台 AI 桌面客户端。
+- [Zentro](https://github.com/ZentroIDE/Zentro) - A project-centric desktop SQL IDE for PostgreSQL, MySQL, SQL Server and SQLite, with environment-aware write guardrails, schema explorer and ERD, Git-backed script tracking, an in-app terminal and a bring-your-own-key AI assistant. Open core: GPL-3.0 core with an optional paid Pro tier. Built with Wails v2.
 
 ### 闭源
 
