@@ -148,6 +148,7 @@
 - [Clustta](https://github.com/eaxum/clustta-client) - Программное обеспечение с открытым исходным кодом для управления ассетами и контроля версий в сфере искусства, игр, визуальных эффектов и анимации.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH-рабочее пространство для разработчиков: SFTP и Ops Agent в одном клиенте.
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - Кроссплатформенный AI десктопный клиент, созданный на Wails v3.
+- [Zentro](https://github.com/ZentroIDE/Zentro) - A project-centric desktop SQL IDE for PostgreSQL, MySQL, SQL Server and SQLite, with environment-aware write guardrails, schema explorer and ERD, Git-backed script tracking, an in-app terminal and a bring-your-own-key AI assistant. Open core: GPL-3.0 core with an optional paid Pro tier. Built with Wails v2.
 
 ### С закрытым исходным кодом
 

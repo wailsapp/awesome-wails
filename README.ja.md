@@ -148,6 +148,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 開発者向けのAI SSHワークスペース。SFTPとOps Agentを1つのクライアントに統合。
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - Wails v3で構築されたクロスプラットフォームAIデスクトップクライアント。
+- [Zentro](https://github.com/ZentroIDE/Zentro) - A project-centric desktop SQL IDE for PostgreSQL, MySQL, SQL Server and SQLite, with environment-aware write guardrails, schema explorer and ERD, Git-backed script tracking, an in-app terminal and a bring-your-own-key AI assistant. Open core: GPL-3.0 core with an optional paid Pro tier. Built with Wails v2.
 
 ### クローズド ソース
 
