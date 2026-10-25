@@ -148,6 +148,7 @@
 - [Clustta](https://github.com/eaxum/clustta-client) - Программное обеспечение с открытым исходным кодом для управления ассетами и контроля версий в сфере искусства, игр, визуальных эффектов и анимации.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH-рабочее пространство для разработчиков: SFTP и Ops Agent в одном клиенте.
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - Кроссплатформенный AI десктопный клиент, созданный на Wails v3.
+- [ViPlay](https://github.com/ctengiz/viplay) - Кроссплатформенный десктопный видеоплеер на Wails v3. На macOS воспроизводит MKV, AVI, HEVC и другие форматы через libmpv; миниатюры в плейлисте, разрезка по маркерам без потери качества, контактные листы и перекодирование.
 
 ### С закрытым исходным кодом
 
