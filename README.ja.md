@@ -148,6 +148,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 開発者向けのAI SSHワークスペース。SFTPとOps Agentを1つのクライアントに統合。
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - Wails v3で構築されたクロスプラットフォームAIデスクトップクライアント。
+- [ViPlay](https://github.com/ctengiz/viplay) - Wails v3で構築されたクロスプラットフォームのデスクトップ動画プレーヤー。macOSではlibmpvでMKV、AVI、HEVCなどを再生し、プレイリストのサムネイル、マーカー位置での無劣化分割、コンタクトシート、再エンコードに対応。
 
 ### クローズド ソース
 

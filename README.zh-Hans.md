@@ -151,6 +151,7 @@
 - [Clustta](https://github.com/eaxum/clustta-client) - 面向艺术、游戏、视觉特效和动画领域的开源资产管理与版本控制软件。
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - 面向开发者的 AI SSH 工作区，集 SFTP、运维 Agent 于一体的客户端。
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - 一款基于 Wails v3 构建的跨平台 AI 桌面客户端。
+- [ViPlay](https://github.com/ctengiz/viplay) - 基于 Wails v3 构建的跨平台桌面视频播放器。在 macOS 上通过 libmpv 播放 MKV、AVI、HEVC 等格式，支持播放列表缩略图、按标记无损分割、缩略图拼图和转码。
 
 ### 闭源
 
