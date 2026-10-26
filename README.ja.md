@@ -143,6 +143,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – [Ya CLI](https://github.com/d3uceY/Ya-CLI) のコマンドライン用ショートカットやエイリアスを管理するためのモダンなデスクトップアプリケーション。作成者: [@d3uceY](https://github.com/d3uceY)
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Wailsで作られた、Windows用のクリエイティブでスタイリッシュなクリップボードマネージャー。コピーした内容を自動で記録し、美しい紙風UIと多彩な機能を備えています。作成者: [@d3uceY](https://github.com/d3uceY)
   - [Cokpyt](https://github.com/d3uceY/Cokpyt) – PyPI に直接アクセスできる pip のデスクトップ GUI。ターミナルを使う時間はもったいない。[[ドキュメント](https://d3ucey.github.io/Cokpyt/)] 作成者: [@d3uceY](https://github.com/d3uceY)
+  - [Vectile](https://github.com/d3uceY/vectile) – Obsidian の Vault、ドキュメント、コードをローカルの SQLite データベースにインデックスし、ベクトル検索と全文検索を組み合わせて意味で探せるローカルファーストの RAG デスクトップアプリ。MCP 経由で AI エージェントからも利用可能。サーバー・クラウド・API キーは不要。作成者: [@d3uceY](https://github.com/d3uceY)
 - [NetraX](https://github.com/jigarvarma2k20/NetraX) - HTTPトラフィックの傍受およびセキュリティ分析ツールキット。Burp Suiteに代わるオープンソースのコア選択肢。
 - [MicroFIX](https://github.com/Infinage/microfix) - Goで書かれた、モダンで軽量なFIXプロトコルテストツール。
 - [Clustta](https://github.com/eaxum/clustta-client) - アート、ゲーム、VFX、アニメーション向けのオープンソースのアセット管理・バージョン管理ソフトウェア。
