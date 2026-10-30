@@ -160,6 +160,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
+- [Herakleo](https://github.com/crstian19/herakleo) - A desktop IPTV player for Linux, Windows and macOS, built with Wails v3 and Svelte 5. Supports M3U playlists and Xtream Codes accounts, with a TV guide, films and series; plays in mpv or VLC.
 
 ### Closed Source
 
