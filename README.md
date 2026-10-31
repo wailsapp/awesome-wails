@@ -64,6 +64,8 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ### Open Source
 
+- [Imagecaster](https://github.com/Zazza/imagecaster) - Local-first desktop studio for Stable Diffusion: describe the scene in plain language and the LLM writes the prompt, style presets carry the technical settings — an opinionated middle ground between the raw WebUI and node-graph combines. Instruction-based photo editing, multi-step pipelines, quality upscaling, and an MCP server for AI agents.
+- [Partscaster](https://github.com/Zazza/partscaster) - Turns AI-generated tracks into records that sound like a live band: swaps the instruments for real ones, generates guitar and drum performances from the song's chords, and mixes the stems the way real records are mixed. Desktop app plus an MCP server for AI agents.
 - [MQ Studio](https://github.com/amigoer/mq-studio) - A local-first desktop client for message queues. One pluggable driver model across RocketMQ, RabbitMQ and Kafka, with topics, consumer groups, messages and cluster health in the same pages. No web console to deploy.
 - [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - A lightweight, high-performance, cross-platform SSH client built with Wails. Low-latency terminal via Go concurrency + local WebSocket + xterm.js, with system resource probe, remote file manager, AI chat and MCP integration.
 - [Linkit](https://github.com/blue-idea/linkit) - Smart knowledge curation desktop app with AI summarization, semantic search, and cloud sync.
