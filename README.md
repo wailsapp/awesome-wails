@@ -173,6 +173,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [JiveDB](https://www.jivedb.com/) - Browse, query and design across PostgreSQL, MySQL, SQLite and Redis.
 - [Kira](https://kira.thiennguyen.dev/) - A native macOS desktop client for AWS that also ships with a PostgreSQL/MySQL SQL client.
 - [TarkovMapTracker](https://github.com/M4elstr0m/TarkovMapTracker) - A desktop application to watch your live in-game location on maps from Escape From Tarkov. Built using Go, Wails v3 and React!
+- [Culma](https://culma.eu) - The collaborative knowledge base with end-to-end encryption: notes, whiteboards and PDFs, several people in one note at once.
 
 ## Tutorials
 
