@@ -158,6 +158,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
 - [Redis Viewer](https://redisviewer.com) - 無料の Redis デスクトップクライアント。大規模データの閲覧、Java シリアライズ値のデコード表示、ローカル性能分析に対応。
+- [PinableAgents](https://github.com/PinableAgents/pinable.cc) - Wails 製の AI デスクトップワークベンチ。AI 実行環境の設定、並列ワークフローのオーケストレーション、ローカルでのソフトウェアデリバリーを一つの画面に統合。
 
 ## チュートリアル
 
