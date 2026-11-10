@@ -161,6 +161,7 @@
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
 - [DBNova](https://dbnova.ruiransoft.com/) - 开发者更友好的 SQL / NoSQL 数据库工具，内置 TS 查询构建器。
 - [Redis Viewer](https://redisviewer.com) - 免费 Redis 桌面客户端，支持海量数据浏览、Java 序列化解码查看，及本地性能排查。
+- [PinableAgents](https://github.com/PinableAgents/pinable.cc) - 基于 Wails 构建的 AI 桌面工作台，集成 AI 运行配置、并行工作流编排和本地软件交付。
 
 ## 教程
 
