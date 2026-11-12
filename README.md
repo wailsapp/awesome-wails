@@ -160,6 +160,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 - [Clustta](https://github.com/eaxum/clustta-client) - Open source asset management and version control software for art, games, VFX and animation.
 - [AIRemoteWorkspace](https://github.com/MrFengJian/AIRemoteWorkspace) - AI SSH workspace for developer, with SFTP, Ops Agent all in one client
 - [lemontea](https://github.com/MikeLINGxZ/lemontea) - A cross-platform AI desktop client built with Wails v3.
+- [Larvyn](https://github.com/larvyn/larvyn) - The Laravel workbench: your Laravel apps, dev services, terminals, database and AI coding agents in one native window, for Windows, macOS and Linux. Built with Wails v3 and React.
 
 ### Closed Source
 
