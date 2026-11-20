@@ -64,6 +64,7 @@ A curated collection of the best stuff from the Wails ecosystem and community.
 
 ### Open Source
 
+- [Zeno](https://github.com/chmenegatti/zeno) - A tab-less, local-first API client: REST, GraphQL, gRPC, WebSocket and SSE, YAML collections you keep in git, encrypted secrets, a mock server and Insomnia/Postman import. Ported from Electron to Wails (97 MB → 8 MB package).
 - [MQ Studio](https://github.com/amigoer/mq-studio) - A local-first desktop client for message queues. One pluggable driver model across RocketMQ, RabbitMQ and Kafka, with topics, consumer groups, messages and cluster health in the same pages. No web console to deploy.
 - [Lumin](https://github.com/wmwlwmwl/Lumin-SSH) - A lightweight, high-performance, cross-platform SSH client built with Wails. Low-latency terminal via Go concurrency + local WebSocket + xterm.js, with system resource probe, remote file manager, AI chat and MCP integration.
 - [Linkit](https://github.com/blue-idea/linkit) - Smart knowledge curation desktop app with AI summarization, semantic search, and cloud sync.
