@@ -158,6 +158,7 @@ Wails のエコシステムとコミュニティから厳選された最高の�
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - インターネットからローカルホストにアクセスするための HTTP/TCP トンネルを作成するアプリケーションです
 - [DBNova](https://dbnova.ruiransoft.com/) - TypeScriptクエリビルダーを内蔵した、開発者に優しいSQL & NoSQLデータベースクライアント。
 - [Redis Viewer](https://redisviewer.com) - 無料の Redis デスクトップクライアント。大規模データの閲覧、Java シリアライズ値のデコード表示、ローカル性能分析に対応。
+- [RacePulse](https://racepulse.racing/) - 無料のシムレーシング向けリアルタイムテレメトリーオーバーレイ。iRacing、Le Mans Ultimate、F1 25/24、Assetto Corsa、ACC、Assetto Corsa EVO に対応し、VR ウィジェットも搭載。Wails v3 と React で構築。
 
 ## チュートリアル
 
