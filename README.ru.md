@@ -158,6 +158,7 @@
 - [Tuna Desktop](https://tuna.am/blog/tuna-desktop-first/) - Приложение для создания HTTP/TCP туннелей для доступа из интернета к localhost.
 - [DBNova](https://dbnova.ruiransoft.com/) - Клиент баз данных для разработчиков (SQL/NoSQL) со встроенным TypeScript-конструктором запросов.
 - [Redis Viewer](https://redisviewer.com) - Бесплатный десктопный клиент Redis для просмотра больших объёмов данных, декодирования Java-сериализации и локального анализа производительности.
+- [RacePulse](https://racepulse.racing/) - Бесплатные оверлеи телеметрии в реальном времени для симрейсинга в iRacing, Le Mans Ultimate, F1 25/24, Assetto Corsa, ACC и Assetto Corsa EVO, с VR-виджетами. Создано на Wails v3 и React.
 
 ## Учебные материалы
 

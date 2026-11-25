@@ -161,6 +161,7 @@
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
 - [DBNova](https://dbnova.ruiransoft.com/) - 开发者更友好的 SQL / NoSQL 数据库工具，内置 TS 查询构建器。
 - [Redis Viewer](https://redisviewer.com) - 免费 Redis 桌面客户端，支持海量数据浏览、Java 序列化解码查看，及本地性能排查。
+- [RacePulse](https://racepulse.racing/) - 免费的模拟赛车实时遥测叠加层，支持 iRacing、Le Mans Ultimate、F1 25/24、Assetto Corsa、ACC 和 Assetto Corsa EVO，并提供 VR 小组件。基于 Wails v3 和 React 构建。
 
 ## 教程
 
